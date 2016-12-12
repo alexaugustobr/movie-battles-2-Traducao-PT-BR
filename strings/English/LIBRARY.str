@@ -17,7 +17,7 @@ REFERENCE           MBII_OPEN_GAME
 LANG_ENGLISH        "Open Mode is our mod's standard mode. It pits two teams against each other\nin timed five minute rounds.  The offensive team must complete their primary objectives to win before time runs out while the defending team tries to stop them by either killing them all or by holding them until the timer runs out. \n\nAll game modes utilize a Last Man Standing mechanic. This means that, if a\n player is killed during a round, he will remain dead for the rest of the duration\n of the round. However, some classes can purchase an ability which grants\n them more lives to play in each round.\n\nEach team is made up of seven different classes based on movie character\n archetypes, each with their own specialty.  Every class can contribute with\n it's own unique skill set which can be upgraded by players.\n\nOpen Mode prioritizes balanced battles between the forces of good and the forces of evil. Players start with a given number of points that they can use\n to purchase or upgrade weapons, abilities, equipment or powers for their\n selected class. The different variety of classes, each with it's own set of\n movie characters, gives players freedom on what roles they want to play\n across the wide range of movie-based scenarios recreated on the mod.\n\nWith Open Mode, players can play as their favourite characters in unusual situations and create interesting What If? scenarios, such as having Vader\n and his Stormtroopers fighting against the Jedi on Naboo or Darth Maul\n teaming up with Jango Fett and trying to capture the Rebel intruders on the\n Death Star."
 
 REFERENCE           MBII_FA_GAME
-LANG_ENGLISH        "Full Authentic Mode follows the same mechanics and rules from Open Mode except for one thing: it doesn't have classes which are upgradable through points.\n\nInstead, each team is made up of predetermined characters from the event\n that you're playing in. Each character comes with predefined equipment and abilities that are stated on it's description.\n\nFull Authentic Mode aims to recreate each battle just like it originally took\n place in the Saga timeline. Any number of players can join a Full Authentic\n game, but only the corresponding number of players to avaiable characters\n on that specific battle can play at any given time. Remaining players can\nplay as a generic weak character (normally a soldier if avaiable) or they will\n remain as observers until the round ends. When one character is killed, his\n player is put at the end of the observer queue and the next person in line for\n that specific character will play as him on the next round.\n\nIn Full Authentic Mode, players can play as their favourite characters in the famous Star Wars battle scenarios, such as playing as Darth Vader and his Stormtroopers while they board the Rebel Tantive IV ship or playing as Obi-\n-Wan Kenobi, Qui-Gon Jinn and Padm� Amidala against Darth Maul and\n Trade Federation Battle and Destroyer droids on Naboo."
+LANG_ENGLISH        "Full Authentic Mode follows the same mechanics and rules from Open Mode except for one thing: it doesn't have classes which are upgradable through points.\n\nInstead, each team is made up of predetermined characters from the event\n that you're playing in. Each character comes with predefined equipment and abilities that are stated on it's description.\n\nFull Authentic Mode aims to recreate each battle just like it originally took\n place in the Saga timeline. Any number of players can join a Full Authentic\n game, but only the corresponding number of players to avaiable characters\n on that specific battle can play at any given time. Remaining players can\nplay as a generic weak character (normally a soldier if avaiable) or they will\n remain as observers until the round ends. When one character is killed, his\n player is put at the end of the observer queue and the next person in line for\n that specific character will play as him on the next round.\n\nIn Full Authentic Mode, players can play as their favourite characters in the famous Star Wars battle scenarios, such as playing as Darth Vader and his Stormtroopers while they board the Rebel Tantive IV ship or playing as Obi-\n-Wan Kenobi, Qui-Gon Jinn and Padmé Amidala against Darth Maul and\n Trade Federation Battle and Destroyer droids on Naboo."
 
 REFERENCE           MBII_DUEL_GAME
 LANG_ENGLISH        "Duel maps allow you to recreate the most famous duels in Star Wars.\n\n Like in Full Authentic mode, players select and take control of a specific\n character involved in the duel, fighting in the same location where the duel \noriginally took place.\n\n Your objective is simple: eliminate your opponent(s). Any number of players\n can join a duel map, but only the corresponding number of characters to that duel can play at any given time. Remaining players will remain in Spectator\n until a match is complete. When one character is eliminated, his player is put\n at the end of the observer queue and the next person in line for that specific\n character will play as him on the next round.\n\nThe winner of the duel continues to play against new opponents until he or\n she is eliminated or his win streak limit of three times is reached. \n\n Duels usually pit 1 vs 1 confrontations, like Vader vs Luke in the Carbonite\n Chamber, Palpatine vs Yoda in the Senate Room or Anakin vs Obi-Wan on Mustafar. There are also a few instances of 2 vs 1 duels, like Dooku vs Obi-\n -Wan and Anakin aboard the Invisible Hand or Darth Maul vs Qui-Gon Jinn\n and Obi-Wan on Naboo. There's even a 4 vs 1 battle where Mace Windu and\n his fellow Jedi Masters fight Palpatine in his office on Coruscant.\n Each scenario will have as many playable characters as the ones needed to\n reenact the duel accurately to the Saga's history."
@@ -35,7 +35,7 @@ REFERENCE           MBII_JEDI
 LANG_ENGLISH        "Jedi & Sith are warriors who wield the mystical energy known as The Force.\n Jedi are known for their fight for peace and justice in the Galaxy while their\n Sith counterpart lusts for power and seeks to destroy the Jedi.\n\nPlaying as a Sith or Jedi in MB2 is not an easy task. In order to be effective,\n players need to understand the basic key aspects of these classes. First \nand foremost, blocking enemy attacks with a lightsaber is now done through\n the use of a defense mode which is triggered manually. While defending,\n both the Jedi or Sith's mobility will be reduced, forcing them to walk.\n\nAnother important aspect is the addition of Blocking Points (BP). In saber\n duels, BP is a representation of both the warrior's stamina and concentration\n during the battle. Attacking and blocking drain BP to a degree, depending on\n a number of factors. BP will slowly regenerate when the player holds the\n defense mode. If a player's BP is completely drained, he will no longer be able\n to block incoming enemy saber attacks.\n\nAs a Jedi or a Sith you have access to various Force Powers, both active\n and passive. Using Force Powers or defending yourself against blaster fire\n will drain your Force Points (FP). If you have no more FP, you won't be able to block incoming enemy fire or to use Force Powers. However, your FP will\nautomatically regenerate over time.\n For more specific information on specific Jedi or Sith abilities, please refer to their own page in this Library.\n\nAlthough Jedi and Sith only use one weapon, they have access to a wide\n range of Force powers and abilities that turn them into deadly foes:\n\nWEAPON:\nLightsaber\n\nABILITIES:\nSaber Offense\nSaber Defense\nSaber Deflect\n\nFORCE POWERS:\nForce Jump\nForce Push\nForce Pull\nForce Sense\nForce Speed (Jedi exclusive)\nMind Trick (Jedi exclusive)\nForce Grip (Sith exclusive)\nForce Lightning (Sith exclusive)\nForce Block\n\nCLASS SPECIALS:\nSpecial 1: Uses Saber Throw.\nSpecial 2: Performs a melee attack that shoves enemies back."
 
 REFERENCE           MBII_HERO
-LANG_ENGLISH        "Heroes are characters who, in the face of danger and adversity or from a\n position of weakness, display courage and the will for self sacrifice � that is,\n heroism � for the triumph of good. They are people of martial and moral\n courage or excellence. Heroes rely on their skill and speed rather than brute\n strength and, despite the odds being stacked against him or her, are able to\n prevail in the end. Amongst the roster of Heroes, you can find characters\n such as Han Solo, Dash Rendar, Princess Leia or even Padm� Amidala.\n\nHeroes have a balanced set of both weaponry and skills to choose from:\n\nWEAPONS:\nBlaster Pistol\nE-11 Blaster Rifle\nProjectile Rifle\nFrag Grenades\n\nABILITIES:\nDodge\nHeal\nQuick Throw\n\nEQUIPMENT:\nArmor\nAmmo\n\nCLASS SPECIALS:\nSpecial 1: Uses Quick Throw."
+LANG_ENGLISH        "Heroes are characters who, in the face of danger and adversity or from a\n position of weakness, display courage and the will for self sacrifice  that is,\n heroism  for the triumph of good. They are people of martial and moral\n courage or excellence. Heroes rely on their skill and speed rather than brute\n strength and, despite the odds being stacked against him or her, are able to\n prevail in the end. Amongst the roster of Heroes, you can find characters\n such as Han Solo, Dash Rendar, Princess Leia or even Padmé Amidala.\n\nHeroes have a balanced set of both weaponry and skills to choose from:\n\nWEAPONS:\nBlaster Pistol\nE-11 Blaster Rifle\nProjectile Rifle\nFrag Grenades\n\nABILITIES:\nDodge\nHeal\nQuick Throw\n\nEQUIPMENT:\nArmor\nAmmo\n\nCLASS SPECIALS:\nSpecial 1: Uses Quick Throw."
 
 REFERENCE           MBII_BOUNTY
 LANG_ENGLISH        "Bounty Hunters are hireable mercenaries who track down and capture or kill anyone with a price on their head, although they were also known for doing nearly anything for the right price including the protection of clients. The best bounty hunters are very well armed and are even more dangerous. There are, however, plenty of incompetent specimens throughout the Galaxy, lacking\n any real skill but wishing to get rich quick or simply seeking adventure.\n Bounty Hunters usually work alone, tho they sometimes form partnerships.\n Despite their fierce independence, their reputation as "Jedi killers" made\n them valuable tools of the Empire.\n\n Bounty Hunters have a wide array of weaponry and equipment avaiable for purchase:\n\nWEAPONS:\nBlaster Pistol\nE-11 Blaster Rifle\nDLT-20a Heavy Rifle\nProjectile Rifle\nDisruptor Rifle\nThermal Detonator\n\nEQUIPMENT:\nPoison Darts\nTracking Darts\nArmor\nAmmo\n\nCLASS SPECIALS:\nSpecial 1: While in Melee, fires a Poison Dart.\nSpecial 2: While in Melee, fires a Tracking Dart. If you're holding a weapon,\n this button will make you do a melee kick forward."
@@ -104,20 +104,20 @@ REFERENCE           EFFECT_JEDI_ALLIES_NEFFECT
 LANG_ENGLISH        "Team Energize\nDuration: Instantaneous effect\nArea Of Effect: Jedi Allies\nEffect: The Jedi has the ability to imbue allies with Force energy.\n\nForce Team Energize allows the Jedi to restore a certain amount of Force energy to his allies within a certain radius of his body. Jedi can restore 50 Force points to one ally, 33 Force points to two allies or 25 Force points to 3 or more allies.\n\n  Rank 1 - Normal range\n  Rank 2 - One and a half times normal range\n  Rank 3 - Double normal range"
 
 REFERENCE           STUN_BATON
-LANG_ENGLISH        "STUN BATON"
+LANG_ENGLISH        "BASTÃO ATORDOADOR"
 
 REFERENCE           COMMONLY_USED_TO_SUBDUE
 LANG_ENGLISH        "Commonly used to subdue unruly prisoners, the stun baton was designed for use in melee combat where killing your opponent is not necessarily the desired outcome.\n\nPrimary Fire - Short range jabbing electrical stun attack\nSecondary Fire - None"
 
 REFERENCE           LIGHTSABER
 NOTES               "Used in weapon binding."
-LANG_ENGLISH        "Lightsaber:"
+LANG_ENGLISH        "Sabre de Luz:"
 
 REFERENCE           AN_ELEGANT_WEAPON_FOR
 LANG_ENGLISH        "Lightsaber\nAn elegant weapon for a more civilized age, the lightsaber is the preferred weapon of the Jedi Knight.  The lightsaber is an energy blade of great power that can be used by the wielder for both attack and defense.\n\nPrimary Fire -  Slashing and swinging attacks\nSecondary Fire -  Force powered saber throw\nDefensive Ability -  Deflects blaster and energy weapon fire, parries enemy lightsaber attacks\nAmmo Type -  N/A"
 
 REFERENCE           BLASTER_PISTOL
-LANG_ENGLISH        "BLASTER PISTOL"
+LANG_ENGLISH        "PISTOLA BLASTER"
 
 REFERENCE           BLASTER_PISTOL_DESC
 LANG_ENGLISH        "DL-44 Heavy Blaster Pistol\nOne of the most common weapons in the galaxy, the DL-44 Heavy Blaster pistol has a slow rate of fire, but is highly accurate.\n\nPrimary Fire -  Slow, single shot with great accuracy and damage\nSecondary Fire - Burst mode with less damage per shot\nAmmo Type -  Blaster Pack"
@@ -126,7 +126,7 @@ REFERENCE           KYLE_KATARN_S_WEAPON
 LANG_ENGLISH        "Kyle Katarn's weapon of choice, the Bryar Blaster Pistol is a common hand-held energy weapon with a slow rate of fire and incredible accuracy.\n\nPrimary Fire -  Slow, single shot with great accuracy and damage\nSecondary Fire -  Burst mode with less damage per shot\nAmmo Type -  Blaster Pack"
 
 REFERENCE           BLASTER_RIFLE
-LANG_ENGLISH        "BLASTER RIFLE"
+LANG_ENGLISH        "RIFLE BASTLER"
 
 REFERENCE           THE_PRIMARY_WEAPON_OF
 LANG_ENGLISH        "E-11 Blaster Rifle\nThe primary weapon of the Imperial forces, the E-11 is a sturdy and deadly blaster rifle capable of inflicting great damage despite its small size. The E-11's compact design makes it easy to carry and conceal.\n\nPrimary Fire -  Slow, single shot with moderate accuracy and great damage\nSecondary Fire -  Rapid, burst fire with low accuracy and expanded firing area\nAmmo Type -  Blaster Pack"
@@ -163,13 +163,13 @@ REFERENCE           A_DETONATION_PACK_IS
 LANG_ENGLISH        "Detonation Packs\nA detonation pack is essentially a small explosive device with a remote detonation trigger.  The pack is placed or thrown and can be detonated at will by the user.  Detonation packs are commonly used to ambush enemies or open sealed doors.\n\nPrimary Fire -  Throws charge at the user's feet\nSecondary Fire - Explodes all set charges"
 
 REFERENCE           CONC_RIFLE
-LANG_ENGLISH        "CONCUSSION RIFLE"
+LANG_ENGLISH        "RIFLE DE CONCUSSÃO"
 
 REFERENCE           CONC_RIFLE_DESC
 LANG_ENGLISH        "Stouker Concussion Rifle\nThe Stouker fires a concussive blast creating an explosion that spreads about 4 meters in diameter.\n\nPrimary Fire - Single shot, large explosive effect that damages everything, slow firing rate\nSecondary Fire - Fires a smaller projectile shot that has a smaller explosive radius but does much more damage in that radius and has a more severe recoil\nAmmo Type -  Metallic Bolts"
 
 REFERENCE           MEDPAC
-LANG_ENGLISH        "MEDPAC"
+LANG_ENGLISH        "KIT MEDICO"
 
 REFERENCE           DESCRIPTION_OF_ITEM_TYPE
 LANG_ENGLISH        "Description of item type."
@@ -178,16 +178,16 @@ REFERENCE           BACTA
 LANG_ENGLISH        "Bacta:"
 
 REFERENCE           SEEKER
-LANG_ENGLISH        "Seeker Drone:"
+LANG_ENGLISH        "Drone Buscador:"
 
 REFERENCE           SENTRY
-LANG_ENGLISH        "Sentry:"
+LANG_ENGLISH        "Sentinela:"
 
 REFERENCE           STATIONARY_SHIELD_CAPS
-LANG_ENGLISH        "STATIONARY SHIELD"
+LANG_ENGLISH        "ESCUDO ESTACIONÁRIO"
 
 REFERENCE           PERSONAL_SHIELD_ARMOR
-LANG_ENGLISH        "PERSONAL SHIELD (ARMOR)"
+LANG_ENGLISH        "ESCUDO PESSOAL (ARMADURA)"
 
 REFERENCE           THE_MEDPAC_IS_A_SMALL
 LANG_ENGLISH        "Medpac\nThe medpac is a small standard field medical kit.   When acquired, the medpac instantly regains lost health and heals damaged tissue."
@@ -214,131 +214,131 @@ REFERENCE           EWEB_DESC
 LANG_ENGLISH        "E-Web\nThe E-Web is a power tripod laser cannon.  It can be deployed on the battle field to help create a strong defensive position.\n\nThe E-Web is only usable in the Siege gametype."
 
 REFERENCE           CLOAK_CAPS
-LANG_ENGLISH        "CLOAKING SHIELD"
+LANG_ENGLISH        "ESCUDO DE DISFARCE"
 
 REFERENCE           CLOAK_DESC
 LANG_ENGLISH        "Cloaking Shield\nThe cloaking shield renders the wearer invisible to others, allowing for stealthy movement.  However, due to the immense energy necessary to power the device, the cloak last for a short duration.  \n\nA direct hit from a DEMP 2 gun will temporarily disable the shield.  Additionally, a hit from the secondary fire of the DEMP 2 will permanently disable the shield.\n\nThe cloaking shield is only usable in the Siege gametype."
 
 REFERENCE           JETPACK_CAPS
-LANG_ENGLISH        "JETPACK"
+LANG_ENGLISH        "MOCHILA A JATO"
 
 REFERENCE           JETPACK_DESC
 LANG_ENGLISH        "Jetpack\nThe jetpack allows the wearer to fly for short durations, giving them a tactical advantage over others.  If the user does not fire the rockets, they will slowly lose altitude.\n\nThe jetpack is only usable in the Siege gametype.\n\n(Note:  To activate the jetpack, jump, then press 'use' while in the air.  Holding 'jump' will allow the user to gain altitude, while holding 'crouch' will decrease altitude.)"
 
 REFERENCE           WEAPONS
 NOTES               "Setup/Controls/Weapons button"
-LANG_ENGLISH        "WEAPONS"
+LANG_ENGLISH        "ARMAS"
 
 REFERENCE           MOVEMENT
 NOTES               "Setup / Movement button"
-LANG_ENGLISH        "MOVEMENT"
+LANG_ENGLISH        "MOVIMENTO"
 
 REFERENCE           LOOK_UP
 NOTES               "Used in attack/look key binding."
-LANG_ENGLISH        "Look Up:"
+LANG_ENGLISH        "Olhar para Cima:"
 
 REFERENCE           LOOK_DOWN
 NOTES               "Used in attack/look key binding."
-LANG_ENGLISH        "Look Down:"
+LANG_ENGLISH        "Olhar para Baixo:"
 
 REFERENCE           RETURN_TO_VIEW
-LANG_ENGLISH        "Return to View"
+LANG_ENGLISH        "Voltar a visão"
 
 REFERENCE           WALK_FORWARD
 NOTES               "Used in movement key binding.\n"
-LANG_ENGLISH        "Walk Forward:"
+LANG_ENGLISH        "Andar para Frente:"
 
 REFERENCE           BACKPEDAL
 NOTES               "Used in movement key binding.\n"
-LANG_ENGLISH        "Backpedal:"
+LANG_ENGLISH        "Recuar:"
 
 REFERENCE           TURN_LEFT
 NOTES               "Used in movement key binding.\n"
-LANG_ENGLISH        "Turn Left:"
+LANG_ENGLISH        "Virar a esquerda:"
 
 REFERENCE           TURN_RIGHT
 NOTES               "Used in movement key binding."
-LANG_ENGLISH        "Turn Right:"
+LANG_ENGLISH        "Virar a direita:"
 
 REFERENCE           RUN_WALK
 NOTES               "Used in movement key binding."
-LANG_ENGLISH        "Run/Walk:"
+LANG_ENGLISH        "Correr/Andark:"
 
 REFERENCE           STEP_LEFT
 NOTES               "Used in movement key binding."
-LANG_ENGLISH        "Step Left:"
+LANG_ENGLISH        "Passo esquerdo:"
 
 REFERENCE           STEP_RIGHT
 NOTES               "Used in movement key binding."
-LANG_ENGLISH        "Step Right:"
+LANG_ENGLISH        "Passo Direito:"
 
 REFERENCE           SIDESTEP_TURN
 NOTES               "Used in movement key binding."
-LANG_ENGLISH        "Sidestep/Turn:"
+LANG_ENGLISH        "Passo para o lado/Virar:"
 
 REFERENCE           UP_JUMP
 NOTES               "Used in movement key binding."
-LANG_ENGLISH        "Up/Jump:"
+LANG_ENGLISH        "Para Cima/Pulo:"
 
 REFERENCE           DOWN_CROUCH
 NOTES               "Used in movement key binding."
-LANG_ENGLISH        "Down/Crouch:"
+LANG_ENGLISH        "Para baixo/agachado:"
 
 REFERENCE           ELECTROBINOCULARS
 NOTES               "Inventory Setup Screen"
-LANG_ENGLISH        "Electrobinoculars:"
+LANG_ENGLISH        "Binóculo eletrônico:"
 
 REFERENCE           BACTA_CANISTER
 NOTES               "Inventory Setup Screen"
-LANG_ENGLISH        "Bacta Canister:"
+LANG_ENGLISH        "Vasilha Bacta:"
 
 REFERENCE           ASSAULT_SENTRY
 NOTES               "Inventory Setup Screen"
-LANG_ENGLISH        "Assault Sentry:"
+LANG_ENGLISH        "Sentinela de Assalto:"
 
 REFERENCE           USE_HELD_ITEM
 NOTES               "Used in setup menu"
-LANG_ENGLISH        "Use held item:"
+LANG_ENGLISH        "Use o item segurado:"
 
 REFERENCE           NEXT_INVENTORY
 NOTES               "Inventory Setup Screen"
-LANG_ENGLISH        "Next Inventory:"
+LANG_ENGLISH        "Próximo no inventário:"
 
 REFERENCE           PREV_INVENTORY
 NOTES               "Inventory Setup Screen\n\n"
-LANG_ENGLISH        "Prev. Inventory:"
+LANG_ENGLISH        "Anterior no inventário:"
 
 REFERENCE           FREE_LOOK
 NOTES               "Used in Mouse/Joystick configuration."
-LANG_ENGLISH        "Free Look:"
+LANG_ENGLISH        "Olhar livre:"
 
 REFERENCE           SENSITIVITY
 NOTES               "Used in Mouse/Joystick configuration."
-LANG_ENGLISH        "Sensitivity:"
+LANG_ENGLISH        "Sensibilidade:"
 
 REFERENCE           INVERT_MOUSE
 NOTES               "Used in Mouse/Joystick configuration."
-LANG_ENGLISH        "Invert Mouse:"
+LANG_ENGLISH        "Inverter Mouse:"
 
 REFERENCE           SMOOTH_MOUSE
 NOTES               "Used in Mouse/Joystick configuration."
-LANG_ENGLISH        "Smooth Mouse:"
+LANG_ENGLISH        "Suavizar Mouse:"
 
 REFERENCE           FORCE_FEEDBACK
 NOTES               "Used in Mouse/Joystick configuration."
-LANG_ENGLISH        "Force Feedback:"
+LANG_ENGLISH        "Forçar Feedback:"
 
 REFERENCE           ENABLE_JOYSTICK
 NOTES               "Used in Mouse/Joystick configuration."
-LANG_ENGLISH        "Enable Joystick:"
+LANG_ENGLISH        "Habilitar Joystick:"
 
 REFERENCE           JOYSTICK_THRESHOLD
 NOTES               "Used in Mouse/Joystick configuration."
-LANG_ENGLISH        "Threshold:"
+LANG_ENGLISH        "Limite:"
 
 REFERENCE           JEDI_KNIGHT_II
 NOTES               "Exit button description"
-LANG_ENGLISH        "Leave Jedi Academy."
+LANG_ENGLISH        "Sair do Jedi Academy."
 
 REFERENCE           MODS
 NOTES               "This is for the top button row of the menu screen."
@@ -349,95 +349,95 @@ NOTES               "Using in the video setup screen"
 LANG_ENGLISH        "GL Extensions:"
 
 REFERENCE           LOAD_MOD
-LANG_ENGLISH        "LOAD MOD"
+LANG_ENGLISH        "Carregar MOD"
 
 REFERENCE           LOAD_CHOSEN_MOD
-LANG_ENGLISH        "Load chosen mod."
+LANG_ENGLISH        "Carregar mod escolhido."
 
 REFERENCE           ENTER_PASSWORD
-NOTES               "Used on password screen."
+NOTES               "Usado na tela de senha."
 LANG_ENGLISH        "ENTER PASSWORD"
 
 REFERENCE           INPUT_PASSWORD_1
-LANG_ENGLISH        "Input Password"
+LANG_ENGLISH        "Insira a senha"
 
 REFERENCE           DONE
 NOTES               "Used on password screen."
-LANG_ENGLISH        "Done"
+LANG_ENGLISH        "Feito"
 
 REFERENCE           FINISHED_INPUTTING_INFO
 NOTES               "Done giving information."
-LANG_ENGLISH        "Finished inputting info."
+LANG_ENGLISH        "Informação de introdução concluída."
 
 REFERENCE           QUIT_JEDI_KNIGHT_II
 NOTES               "Quit screen title\n"
-LANG_ENGLISH        "Quit Jedi Academy?"
+LANG_ENGLISH        "Sair do Jedi Academy?"
 
 REFERENCE           DO_NOT_LEAVE_JEDI_KNIGHT
 NOTES               "Quit screen, NO button description"
-LANG_ENGLISH        "Do not leave Jedi Academy."
+LANG_ENGLISH        "Não sair do Jedi Academy."
 
 REFERENCE           SERVER_INFORMATION
 NOTES               "Used in MP Server Info Screen / Find Server screen."
-LANG_ENGLISH        "Server Information"
+LANG_ENGLISH        "Informação do Servidor"
 
 REFERENCE           INPUT_PLAYER_NAME
 NOTES               "Used in Find Server/Find Friend menu"
-LANG_ENGLISH        "Input player name."
+LANG_ENGLISH        "Insira o nome do jogador."
 
 REFERENCE           FAVORITE_SERVER_INFO
 NOTES               "Use in Find Server/Favorites menu"
-LANG_ENGLISH        "FAVORITE SERVER INFO"
+LANG_ENGLISH        "INFORMAÇÃO DO SERVIDOR FAVORITO"
 
 REFERENCE           INPUT_IP_ADDRESS_OF_SERVER
 NOTES               "Used in Find Server/Favorites menu\nDescription of IP Address"
-LANG_ENGLISH        "Input IP address of server."
+LANG_ENGLISH        "Insira o endereço IP do servidor."
 
 REFERENCE           FIND_SERVER
 NOTES               "Used in Multiplayer Menu.\n"
-LANG_ENGLISH        "Find Server"
+LANG_ENGLISH        "Encontre um Servidor"
 
 REFERENCE           SEARCH_FOR_SERVERS_TO
 NOTES               "Description of Find Servers\n"
-LANG_ENGLISH        "Search for servers to play on."
+LANG_ENGLISH        "Procure por um servidor para jogar."
 
 REFERENCE           CREATE_YOUR_OWN_SERVER
 NOTES               "Description of Start Server."
-LANG_ENGLISH        "Create your own server."
+LANG_ENGLISH        "Crie seu própio servidor."
 
 REFERENCE           PURE_SERVER
-LANG_ENGLISH        "Pure Server:"
+LANG_ENGLISH        "Servidor Puro:"
 
 REFERENCE           AUTO_DOWNLOAD
-LANG_ENGLISH        "Auto Download:"
+LANG_ENGLISH        "Download Automático:"
 
 REFERENCE           MINIMUM_PING
-LANG_ENGLISH        "Minimum Ping:"
+LANG_ENGLISH        "Ping Minimo:"
 
 REFERENCE           MAXIMUM_PING
-LANG_ENGLISH        "Maximum Ping:"
+LANG_ENGLISH        "Ping Maximo:"
 
 REFERENCE           MAX_RATE
-LANG_ENGLISH        "Max Rate:"
+LANG_ENGLISH        "Taxa Maxima:"
 
 REFERENCE           RECONNECT_LIMIT
-LANG_ENGLISH        "Reconnect Limit:"
+LANG_ENGLISH        "Limite de Reconecção:"
 
 REFERENCE           NEW
 NOTES               "Used in first line of NEW GAME button"
-LANG_ENGLISH        "NEW"
+LANG_ENGLISH        "NOVO"
 
 REFERENCE           START_A_NEW_GAME
 NOTES               "New game button description"
-LANG_ENGLISH        "Start a new game."
+LANG_ENGLISH        "Comece um novo jogo"
 
 REFERENCE           LOAD
 NOTES               "Use on LOAD GAME button"
-LANG_ENGLISH        "LOAD"
+LANG_ENGLISH        "CARREGAR"
 
 REFERENCE           LOAD_A_SAVED_GAME
 NOTES               "Load game button description\n"
-LANG_ENGLISH        "Load a saved game."
+LANG_ENGLISH        "Carregar e salvar um jogo."
 
 REFERENCE           APPRENTICE
 NOTES               "Easy game setting button\n"
@@ -445,7 +445,7 @@ LANG_ENGLISH        "PADAWAN"
 
 REFERENCE           EASY_GAME_SETTINGS
 NOTES               "Easy game setting button description\n"
-LANG_ENGLISH        "Easy game settings."
+LANG_ENGLISH        "Configurações fáceis de jogo."
 
 REFERENCE           JEDI
 NOTES               "Normal game setting button"
@@ -453,59 +453,59 @@ LANG_ENGLISH        "JEDI"
 
 REFERENCE           NORMAL_GAME_SETTINGS
 NOTES               "Normal game setting button description"
-LANG_ENGLISH        "Normal game settings."
+LANG_ENGLISH        "Configurações de jogo normais."
 
 REFERENCE           DIFFICULT_GAME_SETTINGS
 NOTES               "Difficult game setting button description"
-LANG_ENGLISH        "Difficult game settings."
+LANG_ENGLISH        "Configurações de jogo difíceis."
 
 REFERENCE           JEDI_MASTER
 NOTES               "Very difficult game setting button\n"
-LANG_ENGLISH        "JEDI MASTER"
+LANG_ENGLISH        "MESTRE JEDI"
 
 REFERENCE           EXTREMELY_DIFFICULT_GAME
 NOTES               "Extremely difficult game setting button description"
-LANG_ENGLISH        "Extremely difficult game settings."
+LANG_ENGLISH        "Configurações de jogo extremamente difíceis."
 
 REFERENCE           START_JEDI_KNIGHT_III
 NOTES               "Begin new game button description\n"
-LANG_ENGLISH        "Start Jedi Academy."
+LANG_ENGLISH        "Inciar Jedi Academy."
 
 REFERENCE           DESC
-LANG_ENGLISH        "DESCRIPTION:"
+LANG_ENGLISH        "DESCRIÇÃO:"
 
 REFERENCE           LOAD_GAME
 NOTES               "This is for the top button row of the menu screen."
-LANG_ENGLISH        "LOAD GAME"
+LANG_ENGLISH        "CARREGAR JOGO"
 
 REFERENCE           LOAD_CHOSEN_GAME
-LANG_ENGLISH        "Load chosen game."
+LANG_ENGLISH        "Carregar o jogo escolhido."
 
 REFERENCE           DELETE_GAME
-LANG_ENGLISH        "DELETE GAME"
+LANG_ENGLISH        "DELETAR JOGO"
 
 REFERENCE           DELETE_CHOSEN_GAME
-LANG_ENGLISH        "Delete chosen game."
+LANG_ENGLISH        "Deletar o jogo escolhido."
 
 REFERENCE           FORCE_POWERS
 NOTES               "Set up button"
-LANG_ENGLISH        "FORCE POWERS"
+LANG_ENGLISH        "PODERES DA FORÇA"
 
 REFERENCE           ATTACK_LOOK
 NOTES               "Setup/Controls/attacklook button"
-LANG_ENGLISH        "ATTACK/LOOK"
+LANG_ENGLISH        "ATACAR/OLHAR"
 
 REFERENCE           INVENTORY
 NOTES               "Setup screen"
-LANG_ENGLISH        "INVENTORY"
+LANG_ENGLISH        "INVENTÁRIO"
 
 REFERENCE           QUICK_KEYS
 NOTES               "Setup / Quick keys button"
-LANG_ENGLISH        "QUICK KEYS"
+LANG_ENGLISH        "TECLAS RÁPIDAS"
 
 REFERENCE           CONFIGURE_QUICK_KEYS
 NOTES               "Setup/QuickKey button desc\n"
-LANG_ENGLISH        "Configure Quick keys."
+LANG_ENGLISH        "Configurar teclas rápidas."
 
 REFERENCE           MOUSE_JOYSTICK
 NOTES               "Setup / Mouse/Joystick button"
@@ -513,23 +513,23 @@ LANG_ENGLISH        "MOUSE/JOYSTICK"
 
 REFERENCE           OTHER
 NOTES               "Setup / Other button"
-LANG_ENGLISH        "OTHER"
+LANG_ENGLISH        "OUTRO"
 
 REFERENCE           PISTOL
 NOTES               "Used in weapon binding."
-LANG_ENGLISH        "Blaster Pistol:"
+LANG_ENGLISH        "Pistol Blaster:"
 
 REFERENCE           RIFLE
 NOTES               "Used in weapon binding."
-LANG_ENGLISH        "Blaster Rifle:"
+LANG_ENGLISH        "Rifle Blaster:"
 
 REFERENCE           DISRUPTOR_RIFLE
 NOTES               "Used in weapon binding."
-LANG_ENGLISH        "Disruptor Rifle:"
+LANG_ENGLISH        "Rifle Disruptor:"
 
 REFERENCE           HEAVY_REPEATER
 NOTES               "Used in weapon binding."
-LANG_ENGLISH        "Heavy Repeater:"
+LANG_ENGLISH        "Repetidor Pesado:"
 
 REFERENCE           DEMP_2
 NOTES               "Used in weapon binding."
@@ -540,81 +540,81 @@ NOTES               "Used in weapon binding."
 LANG_ENGLISH        "Flechette:"
 
 REFERENCE           CONC_RIFLE_SETUP
-LANG_ENGLISH        "Concussion Rifle:"
+LANG_ENGLISH        "Rifle de concussão:"
 
 REFERENCE           MERR_SONN
 LANG_ENGLISH        "Merr-Sonn:"
 
 REFERENCE           NEXT_WEAPON
 NOTES               "Used in weapon binding."
-LANG_ENGLISH        "Next Weapon:"
+LANG_ENGLISH        "Próxima Arma:"
 
 REFERENCE           PREVIOUS_WEAPON
 NOTES               "Used in weapon binding."
-LANG_ENGLISH        "Previous Weapon:"
+LANG_ENGLISH        "Arma Anterior:"
 
 REFERENCE           USE_FORCE_POWER
 NOTES               "Bind key to Use Current Force Power"
-LANG_ENGLISH        "Use Force Power:"
+LANG_ENGLISH        "Usar Porder da Força:"
 
 REFERENCE           FORCE_NEXT
 NOTES               "Bind key to Next Current Force Power"
-LANG_ENGLISH        "Force Next:"
+LANG_ENGLISH        "Próximo Poder:"
 
 REFERENCE           FORCE_PREVIOUS
 NOTES               "Bind key to Next Current Force Power"
-LANG_ENGLISH        "Force Previous:"
+LANG_ENGLISH        "Poder Anterior:"
 
 REFERENCE           ATTACK
 NOTES               "Used in attack/look key binding."
-LANG_ENGLISH        "Attack:"
+LANG_ENGLISH        "Ataque:"
 
 REFERENCE           ALT_ATTACK
 NOTES               "Used in attack/look key binding."
-LANG_ENGLISH        "Alt. Attack:"
+LANG_ENGLISH        "Ataque Alternativo:"
 
 REFERENCE           USE
 NOTES               "Used in attack/look key binding."
-LANG_ENGLISH        "Use:"
+LANG_ENGLISH        "Usar:"
 
 REFERENCE           MOUSE_LOOK
 NOTES               "Used in attack/look key binding."
-LANG_ENGLISH        "Mouse Look:"
+LANG_ENGLISH        "Olhar com o Mouse:"
 
 REFERENCE           CENTERVIEW
 NOTES               "Used in attack/look key binding."
-LANG_ENGLISH        "Centerview:"
+LANG_ENGLISH        "Centralizar visão:"
 
 REFERENCE           LIGHT_AMP_GOGGLES
 NOTES               "Inventory Setup Screen"
-LANG_ENGLISH        "Light Amp. Goggles:"
+LANG_ENGLISH        "Óculos Amplificador de Luz:"
 
 REFERENCE           MISSION_INFO
 NOTES               "Used in quick key binding.\n"
-LANG_ENGLISH        "Mission Info:"
+LANG_ENGLISH        "Informaço da Missão:"
 
 REFERENCE           SAVE_MENU
 NOTES               "Used in quick key binding."
-LANG_ENGLISH        "Save Menu:"
+LANG_ENGLISH        "Menu para Salvar:"
 
 REFERENCE           LOAD_MENU
 NOTES               "Used in quick key binding."
-LANG_ENGLISH        "Load Menu:"
+LANG_ENGLISH        "Menu para Carregar:"
 
 REFERENCE           INSTANT_SAVE
 NOTES               "Used in quick key binding."
-LANG_ENGLISH        "Quick Save:"
+LANG_ENGLISH        "Salvamento Rápido:"
 
 REFERENCE           INSTANT_LOAD
-LANG_ENGLISH        "Quick Load:"
+LANG_ENGLISH        "Carregamento Rápido:"
 
 REFERENCE           SOUND
 NOTES               "Setup/Sound button"
-LANG_ENGLISH        "SOUND"
+LANG_ENGLISH        "Som"
 
 REFERENCE           GAME_OPTIONS
 NOTES               "Setup/Options button"
-LANG_ENGLISH        "OPTIONS"
+LANG_ENGLISH        "Opções"
 
 REFERENCE           BILINEAR
 LANG_ENGLISH        "BILINEAR"
@@ -624,115 +624,115 @@ LANG_ENGLISH        "TRILINEAR"
 
 REFERENCE           VOICE_VOLUME
 NOTES               "Used on sound menu"
-LANG_ENGLISH        "Voice Volume:"
+LANG_ENGLISH        "Volume da Voz:"
 
 REFERENCE           VOICE_VOLUME_DESC
-LANG_ENGLISH        "Adjust volume for voices."
+LANG_ENGLISH        "Ajustar o volume da voz."
 
 REFERENCE           VOICE
-LANG_ENGLISH        "Voice:"
+LANG_ENGLISH        "Voz:"
 
 REFERENCE           SUBTITLES
-LANG_ENGLISH        "Subtitles:"
+LANG_ENGLISH        "Legendas:"
 
 REFERENCE           SYNC_EVERY_FRAME
-LANG_ENGLISH        "Sync Every Frame:"
+LANG_ENGLISH        "Sincronizar cada quadro:"
 
 REFERENCE           SAVE
 NOTES               "Used on ingame menu"
-LANG_ENGLISH        "SAVE"
+LANG_ENGLISH        "SALVAR"
 
 REFERENCE           SAVE_CURRENT_GAME
-LANG_ENGLISH        "Save current game."
+LANG_ENGLISH        "Salvar o jogo atual."
 
 REFERENCE           RESUME
 NOTES               "Used on ingame menu"
-LANG_ENGLISH        "RESUME"
+LANG_ENGLISH        "CONINUAR"
 
 REFERENCE           RESUME_CURRENT_GAME
 NOTES               "Used in ingame main menu."
-LANG_ENGLISH        "Resume current game."
+LANG_ENGLISH        "Continuar o jogo atual."
 
 REFERENCE           SAVE_GAME
-LANG_ENGLISH        "Save Game"
+LANG_ENGLISH        "Salvar Jogo"
 
 REFERENCE           RESET_DEFAULT_VALUES
 NOTES               "Used in reset defaults screen"
-LANG_ENGLISH        "Reset default values and return to Main Menu."
+LANG_ENGLISH        "Repor valores predefinidos e voltar ao Menu Principal."
 
 REFERENCE           NOT_RESET_DEFAULT_VALUES
 NOTES               "Used in reset defaults screen"
-LANG_ENGLISH        "Do not reset default values."
+LANG_ENGLISH        "Não repor valores padrão."
 
 REFERENCE           DP_MISSION
-LANG_ENGLISH        "MISSION"
+LANG_ENGLISH        "MISSÃO"
 
 REFERENCE           AN_OVERVIEW_OF_MISSION
-LANG_ENGLISH        "An overview of mission objectives."
+LANG_ENGLISH        "Uma visão geral dos objetivos da missão."
 
 REFERENCE           RETURN_TO_GAME
-LANG_ENGLISH        "Return to game."
+LANG_ENGLISH        "Retornar ao jogo."
 
 REFERENCE           VIEW_CURRENTLY_OWNED
-LANG_ENGLISH        "View currently owned weapons."
+LANG_ENGLISH        "Ver armas actualmente detidas."
 
 REFERENCE           VIEW_CURRENT_INVENTORY
-LANG_ENGLISH        "View current inventory."
+LANG_ENGLISH        "Ver inventário atual."
 
 REFERENCE           DP_FORCE
-LANG_ENGLISH        "FORCE"
+LANG_ENGLISH        "FORÇA"
 
 REFERENCE           VIEW_CURRENT_FORCE_POWERS
-LANG_ENGLISH        "View current Force powers."
+LANG_ENGLISH        "Ver os poderes de força atuais."
 
 REFERENCE           ERROR
-LANG_ENGLISH        "Error:"
+LANG_ENGLISH        "Erro:"
 
 REFERENCE           CALL_VOTE
-LANG_ENGLISH        "Call Vote"
+LANG_ENGLISH        "Chamar Votação"
 
 REFERENCE           ADDRESS
-LANG_ENGLISH        "Address:"
+LANG_ENGLISH        "Endereço:"
 
 REFERENCE           TYPE
-LANG_ENGLISH        "Game Type:"
+LANG_ENGLISH        "Tipo de Jogo:"
 
 REFERENCE           FREE_FOR_ALL
-LANG_ENGLISH        "Free For All"
+LANG_ENGLISH        "Livre para todos (LPT)"
 
 REFERENCE           HOLOCRON_FFA
-LANG_ENGLISH        "Holocron FFA"
+LANG_ENGLISH        "Holocromo LPT"
 
 REFERENCE           DUEL
-LANG_ENGLISH        "Duel"
+LANG_ENGLISH        "Duelo"
 
 REFERENCE           TEAM_FFA
-LANG_ENGLISH        "Team FFA"
+LANG_ENGLISH        "Time LPT"
 
 REFERENCE           SAGA
 LANG_ENGLISH        "N/A"
 
 REFERENCE           SIEGE
-LANG_ENGLISH        "Siege"
+LANG_ENGLISH        "Cerco"
 
 REFERENCE           POWERDUEL
-LANG_ENGLISH        "Power Duel"
+LANG_ENGLISH        "Duelo de Poder"
 
 REFERENCE           CAPTURE_THE_FLAG
-LANG_ENGLISH        "Capture the Flag"
+LANG_ENGLISH        "Capture a Bandeira"
 
 REFERENCE           CAPTURE_THE_YSALIMARI
-LANG_ENGLISH        "Capture the Ysalamiri"
+LANG_ENGLISH        "Capture o Ysalamiri"
 
 REFERENCE           CAPTURE_LIMIT
 NOTES               "For server connect screen"
-LANG_ENGLISH        "Capture Limit:"
+LANG_ENGLISH        "Limite de Captura:"
 
 REFERENCE           MINIMUM_PLAYERS
-LANG_ENGLISH        "Minimum Players:"
+LANG_ENGLISH        "Minimo de Jogadores:"
 
 REFERENCE           CONFIGURE_CONTROLS
-LANG_ENGLISH        "Configure Controls"
+LANG_ENGLISH        "Configurar Controles"
 
 REFERENCE           FORCE_POWERS_1
 LANG_ENGLISH        "Force Powers 1"
@@ -1225,7 +1225,7 @@ LANG_ENGLISH        "Configure Force Powers"
 REFERENCE           SET_UP_THE_FORCE_ABILITIES
 LANG_ENGLISH        "Set up the Force Abilities for your character."
 
-REFERENCE           APPLY_CHANGES_AND_JOIN
+REFERENCE           APPLY_CHANGES_AND_
 LANG_ENGLISH        "Apply changes and join the game in progress."
 
 REFERENCE           CHANGES_AND_JOIN_THE
@@ -2069,10 +2069,10 @@ REFERENCE           DESCRIPTION_OF_A_WEAPON
 LANG_ENGLISH        "Description of a weapon type."
 
 REFERENCE           EXIT_INGAME
-LANG_ENGLISH        "Exit"
+LANG_ENGLISH        "Sair
 
 REFERENCE           SETUP_INGAME
-LANG_ENGLISH        "Setup"
+LANG_ENGLISH        "Configuração"
 
 REFERENCE           SABER_CHALLENGE
 LANG_ENGLISH        "Saber Challenge:"
@@ -2084,7 +2084,7 @@ REFERENCE           IF_SABER_NOT_READY
 LANG_ENGLISH        "If saber not ready"
 
 REFERENCE           JOIN_CAPS
-LANG_ENGLISH        "JOIN"
+LANG_ENGLISH        "JUNTAR-SE"
 
 REFERENCE           DONE_CAPS
 LANG_ENGLISH        "DONE"
@@ -2104,7 +2104,7 @@ LANG_ENGLISH        "Synchronize frame rate with monitor refresh."
 
 REFERENCE           SEARCH_CAPS
 NOTES               "Button in the Join Friends menu. "
-LANG_ENGLISH        "SEARCH"
+LANG_ENGLISH        "PROCURAR"
 
 REFERENCE           VIDEO_SYNC
 NOTES               "Button in more video menu, has a clickable yes or no."
@@ -3158,7 +3158,7 @@ NOTES               "This should be the native language name, eg francais, deuts
 LANG_ENGLISH        "English"
 
 REFERENCE           LANG_FRENCH
-LANG_ENGLISH        "Fran�ais"
+LANG_ENGLISH        "Français"
 
 REFERENCE           BACKTORULES
 LANG_ENGLISH        "Back to Rules Menu"
