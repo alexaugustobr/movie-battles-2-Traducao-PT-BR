@@ -1,0 +1,183 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH "HALT"
+// LANG_GERMAN "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+// and because we do not store duplicate strings, which will then get exported again next time
+// as being untranslated.)
+//
+VERSION "1"
+CONFIG "W:\bin\stringed.cfg"
+FILENOTES ""
+
+REFERENCE NULL
+LANG_ENGLISH "(click to cycle)"
+
+REFERENCE TIP1B
+LANG_ENGLISH "Você pode revidar os poderes de empurrar e puxar andando, agachando e ficando parado."
+
+REFERENCE TIP2B
+LANG_ENGLISH "Seja cuidadoso, recarregar um rifle projetor demora algum tempo.\nÉ recomendado trocar de arma quando um Jedi está perto de você."
+
+REFERENCE TIP3B
+LANG_ENGLISH "Fique em mente que as balas do rifle projetor viajam por algum tempo. Ajuste sua mira de acordo."
+
+REFERENCE TIP4B
+LANG_ENGLISH "Jedi e Sith não podem bloquear tiros de blaster enquanto utilizam um poder."
+
+REFERENCE TIP5B
+LANG_ENGLISH "Atirar entre um duelo entre Jedi e Sith pode ser arriscado, mas também pode ser muito recompensador.\nNão atire nos seus colegas de equipe."
+
+REFERENCE TIP6B
+LANG_ENGLISH "Evite bloquear atiradores amigos e pegar seu local de cobertura logo após eles sairem do local."
+
+REFERENCE TIP7B
+LANG_ENGLISH "Quando estiver enfrentando um atirador como um usuário da força, evite tiros de blaster para conservar pontos de força."
+
+REFERENCE TIP8B
+LANG_ENGLISH "Use a Visão da Força para identificar a posição dos inimigos para seu time."
+
+
+REFERENCE TIP9B
+LANG_ENGLISH "O movimento de esquivar pode desviar de tiros de sniper apenas quando não são headshots."
+
+REFERENCE TIP10B
+LANG_ENGLISH "O Poder de empurrar no nível 3 desvia foguetes na onde você aponta sua mira."
+
+REFERENCE TIP11B
+LANG_ENGLISH "Use o poder de puxar para deixar os seus inimigos fora de sua cobertura e a mercê dos seus colegas de equipe."
+
+REFERENCE TIP12B
+LANG_ENGLISH "Armas de fogo drenam mais pontos de força de Jedi e Sith o quanto mais perto eles estiverem.\nO Rifle Projetor pode penetrar defesas em um tiro se a vítima não estiver defendendo."
+
+REFERENCE TIP13B
+LANG_ENGLISH "O soldado pode renascer mais de 2 vezes.\nÁs vezes, se matar para voltar ao ponto de nascimento do seu time pode ajudar\nsalvar um objetivo aparentemente sem defesas."
+
+REFERENCE TIP14B
+LANG_ENGLISH "Está tendo problemas para derrotar uma classe específica, habilidade ou arma?\nAprenda a usar isso por sí mesmo e ache a fraqueza dela."
+
+REFERENCE TIP15B
+LANG_ENGLISH "Droidekas recebem o dobro de dano quando estão rolando."
+
+REFERENCE TIP16B
+LANG_ENGLISH "Um Jedi pode diminuir o dano causado por Veneno meditando."
+
+REFERENCE TIP17B
+LANG_ENGLISH "Você está pegando fogo? Rolar extingue as chamas."
+
+REFERENCE TIP18B
+LANG_ENGLISH "Pistolas são sempre precisas."
+
+REFERENCE TIP19B
+LANG_ENGLISH "Um Jedi está desviando seus tiros de volta em você?\nChegue perto e ele não será mais capaz de desvir dos tiros precisamente."
+
+REFERENCE TIP20B
+LANG_ENGLISH "Atire em um Jedi empunhando um sabre com o Wrist Blaster do Mandalorian\npara drenar grandes quantidades de poder de força deles."
+
+REFERENCE TIP21B
+LANG_ENGLISH "O lança-chamas do Mandalorian é ineficaz em um combate de Punhos."
+
+REFERENCE TIP22B
+LANG_ENGLISH "Granadas de Concussão como um soldado são muito eficazes contra Jedi ou Sith\nquando eles falham em desviar elas de volta."
+
+REFERENCE TIP23B
+LANG_ENGLISH "Quando derrubado como Jedi ou Sith, role or ou levante rapidamente com o chute (teclas de movimento).\nSe estiver enfrentando atiradores, use o movimento de levantar rápido (Agachar ou Pular)."
+
+REFERENCE TIP24B
+LANG_ENGLISH "As blobs dos Rifles dos CloneTroopers são especialmente eficazes contra inimigos Sith."
+
+REFERENCE TIP25B
+LANG_ENGLISH "Em uma luta de Sabre VS Sabre, o ataque azul pode ser usado para empurrar\no oponente para um abismo, eles devem estar na borda de um."
+
+REFERENCE TIP26B
+LANG_ENGLISH "O Estilo Vermelho do Sabre faz mais dano nos pontos de vida que o estilo amarelo, e pode matar\n um Wookiee com a Vida nível 3."
+
+REFERENCE TIP27B
+LANG_ENGLISH "Armas de fogo dão mais dano quanto mais alto o corpo ela acertar, exceto contra\nos SBD e Droidekas. portanto, frequentemente é recompensador mirar como um atirador\naltamente e idealmente fazer headshots em seus oponentes."
+
+REFERENCE TIP28B
+LANG_ENGLISH "O tiro secundário forte é da pistola do Clone ou ARC secondary é muito útil\npara atacar inimigos apesar da proteção deles."
+
+REFERENCE TIP29B
+LANG_ENGLISH "Use o movimento de arremessar o sabre em atiradores inimigos que estão muito longe e derrubados\npara acertar com um golpe. Você pode acabar com eles!"
+
+REFERENCE TIP30B
+LANG_ENGLISH "Se lembre, Jedi/Sith não podem usar poderes de força enquanto estão golpeando.\nUse isso como sua chance para correr uma pequena distância ou círculo em volta deles."
+
+
+
+REFERENCE TIP1A
+LANG_ENGLISH "Dardos de rastreamento podem mostrar Jedi usando o poder de truque mental e a cor representa a quantidade de pontos de vida.\nSe você detectar um Jedi sorrateiro, certifique-se de marcá -lo logo no início do round para manter o controle dele. "
+REFERENCE TIP2A
+LANG_ENGLISH "Como Sith, Pule em direção a um inimigo atirador e use relâmpagos \npara paralizar ele/ela enquanto continua pulando, então imediatamente golpeie ele/ela.\nIsto é ineficaz contra Wookiees."
+
+REFERENCE TIP3A
+LANG_ENGLISH "Dardos invenenados privinem inimigos Jedi de regenerar pontos de força enemies, e embaça a visão deles.\nUm Jedi invenanado é assim severamente enfraquecido e propenso a perder rapidamente todo seu poder de força levando um tiro do mesmo."
+
+REFERENCE TIP4A
+LANG_ENGLISH "Para ganhar uma boa velocidade como Mandalorian rapidamente, você pode rolar no chão\ne ativar seu jetpack enquanto você está rolando."
+
+REFERENCE TIP5A
+LANG_ENGLISH "Quando estiver enfrentando um Jedi como Droideka, conserve seu escudo, e apenas quando\no Jedi começar um ataque em você, ative o escudo e dispare ele/ela longe."
+
+REFERENCE TIP6A
+LANG_ENGLISH "Uma maneira efetiva de matar um Jedi/Sith como um Herói/Caçador de Recompensas é snipando eles\nquando eles estão derrubados. Eles estão impossibilitados de refletir os tiros da arma enquanto estão neste estado,\na não ser que eles tenham a habilidade Q3."
+
+REFERENCE TIP7A
+LANG_ENGLISH "Troopers Arc com destreza nível 3 devem ficar atirando sempre que eles\nperformem rolamentos rapidos. Contudo eles não podem enquanto eles rolam quando eles rolam para não serem \nempurrados\puxados por um sith ou serem derrubados por uma explosão."
+
+REFERENCE TIP8A
+LANG_ENGLISH "Super Droids de Batalha podem ser derrubados por explosões ou poderes\nquando eles estão com pouca bateria. Porém, Wookies sempre podem derrubar eles\nexceto quando eles estão esquivando."
+
+REFERENCE TIP9A
+LANG_ENGLISH "A habilidade de Stamina opde ser usada enquanto anda para andar mais rapidamente\ne continuar imune á ser empurrado ou puxado se o\n Botão de correr (Especial da Classe 1) está segurado."
+
+REFERENCE TIP10A
+LANG_ENGLISH "Meditar como um Jedi/Sith vai aumentar a sua regeneração de pontos de força."
+
+REFERENCE TIP11A
+LANG_ENGLISH "Uma granada que atinge um escudo de um Droideka vai explor instantanêamente,\nfazendo pouco dano ao Droideka a sí mesmo mas um severo\ndano a qualquer um perto disso."
+
+REFERENCE TIP12A
+LANG_ENGLISH "Um foguete de pulso pode ser detonado no meio do ar manualmente pelo ARC que lançou isso :\nPara isso, aperte o botão de fogo secundário no instante que você quer que isso exploda."
+
+REFERENCE TIP13A
+LANG_ENGLISH "Enquanto você se segura na parede como um Jedi, segure o botão de utilizar para silenciosamente\nsair da parede e cair reto para baixo invés de pular."
+
+REFERENCE TIP14A
+LANG_ENGLISH "O Bloqueio Giratório(Segurando o botão de bloqueio imediatamente após iniciar um golpe) \npermite um Jedi desviar a Jedi to deflect blaster bolts mid-slashat the cost of increased\n Force drain and interrupting their slash."
+
+REFERENCE TIP15A
+LANG_ENGLISH "Com o pulo nível 3, pule fora invés de andar fora das bordas para anular\ntodos os danos de quedas de alturas altas."
+
+REFERENCE TIP16A
+LANG_ENGLISH "Protegendo (Tecla de Recarregar no Melee) direito como um soco normal te atingir\nvai executar um contra ataca no atacante."
+
+REFERENCE TIP17A
+LANG_ENGLISH "Em uma batalha de Sabre vs Sabre, quando seu inimigo correr para longe,\nuse o ataque para frente do estilo azul para capturar eles mais fácilmente, ou foque a força\nneles e use o poder de puxar nível 3."
+
+REFERENCE TIP18A
+LANG_ENGLISH "O modo de explosão do rifle A280 atira 5 vezes em uma rápida sucessão.\nUm modo de explosão bem contado vai atingir o usuário da força sem estar se protegendo\nenquanto você já está caindo pelo empurrão dele."
+
+REFERENCE TIP19A
+LANG_ENGLISH "É possível atirar foguetes enquanto você está no meio do ar.\nSe você ver um ARC lançando um míssel, tente mirar no Míssel para o máximo de dano."
+
+REFERENCE TIP20A
+LANG_ENGLISH "Entrar no modo de pouca energia de um Super Droid de Batalha em fogo vai extinguir as chamas."
+
+REFERENCE TIP21A
+LANG_ENGLISH "O Mandalorian pode atirar tiros de sniper precisos quando estão usando o Jetpack e não está se mechendo."
+
+REFERENCE TIP22A
+LANG_ENGLISH "Granadas de Pulso podem ser jogadas instantanêamente na velocidade máxima com o ataque secundário.\nIsto é muito útil para bombardear um inimigo preso com paralisia."
+
+REFERENCE TIP23A
+LANG_ENGLISH "Minas Detonadoras Sônicas podem ser destruidas atacando elas antes delas explodirem."
+
+REFERENCE TIP24A
+LANG_ENGLISH "Algumas habilidades tem efeitos em suas junções.\nPor exemplo, você pode lançar granadas com seu lançador de foguetes\npara destruir Super Droids de Batalha e Droidekas Rapidamente."
+
+ENDMARKER
