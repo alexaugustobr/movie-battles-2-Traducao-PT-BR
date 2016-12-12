@@ -71,7 +71,7 @@ LANG_ENGLISH        "The thermal detonator, or 'TD' for short, is a highly volat
 
 REFERENCE           PULSENADES
 NOTES               "For character menu"
-LANG_ENGLISH        "The Electro Magnetic Pulse Grenade, or Pulse Grenade — for short — is a grenade accessible by the ARC Trooper. Tapping primary fire will result in a short toss of the grenade. Pressing and holding primary fire will allow for the grenade’s throwing distance to increase (the longer you 'charge' the longer the toss). Secondary fire will allow for maximum throwing range without the wait of charging.\n\n- Causes knockdown for most classes and drains their weapon's clip\n- Heavily drains the ammo of and temporarily disables the shields of Droidekas\n- Drains battery power, weapon clip from, and renders SBDs incapable of firing for a short period \n\n Level (X):  (X) number of pulse grenades granted."
+LANG_ENGLISH        "The Electro Magnetic Pulse Grenade, or Pulse Grenade Â— for short Â— is a grenade accessible by the ARC Trooper. Tapping primary fire will result in a short toss of the grenade. Pressing and holding primary fire will allow for the grenadeÂ’s throwing distance to increase (the longer you 'charge' the longer the toss). Secondary fire will allow for maximum throwing range without the wait of charging.\n\n- Causes knockdown for most classes and drains their weapon's clip\n- Heavily drains the ammo of and temporarily disables the shields of Droidekas\n- Drains battery power, weapon clip from, and renders SBDs incapable of firing for a short period \n\n Level (X):  (X) number of pulse grenades granted."
 
 REFERENCE           SONICNADES
 NOTES               "For character menu"
