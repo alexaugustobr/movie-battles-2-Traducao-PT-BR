@@ -15,7 +15,7 @@ FILENOTES           ""
 
 REFERENCE           JEDI_HF
 NOTES               "For character menu"
-LANG_ENGLISH        "FÍmea Humana"
+LANG_ENGLISH        "F√™mea Humana"
 
 REFERENCE           JEDI_HM
 NOTES               "For character menu"
@@ -31,19 +31,19 @@ LANG_ENGLISH        "Macho Rodian"
 
 REFERENCE           JEDI_TF
 NOTES               "For character menu"
-LANG_ENGLISH        "FÍmea Twi'lek"
+LANG_ENGLISH        "F√™mea Twi'lek"
 
 REFERENCE           JEDI_ZF
 NOTES               "For character menu"
-LANG_ENGLISH        "FÍmea Zabrak"
+LANG_ENGLISH        "F√™mea Zabrak"
 
 REFERENCE           CHARACTER_CREATION
 NOTES               "For character menu"
-LANG_ENGLISH        "CIA«√O DE PERSONAGEM"
+LANG_ENGLISH        "CIA√á√ÉO DE PERSONAGEM"
 
 REFERENCE           SPECIES
 NOTES               "For character menu"
-LANG_ENGLISH        "ESP…CIES"
+LANG_ENGLISH        "ESP√âCIES"
 
 REFERENCE           CHOOSE_SPECIES
 NOTES               "For character menu"
@@ -199,10 +199,10 @@ REFERENCE           ACCEPT
 LANG_ENGLISH        "ACEITAR"
 
 REFERENCE           NEXT
-LANG_ENGLISH        "PR”XIMO"
+LANG_ENGLISH        "PR√ìXIMO"
 
 REFERENCE           NEXT_DESC
-LANG_ENGLISH        "Ir para a prÛxima tela."
+LANG_ENGLISH        "Ir para a pr√≥xima tela."
 
 REFERENCE           SELECT_SKILL
 LANG_ENGLISH        "SELECT SKILL LEVEL"
@@ -211,10 +211,10 @@ REFERENCE           MISSION_OBJECTIVES
 LANG_ENGLISH        "MISSION OBJECTIVES"
 
 REFERENCE           PRIMARY_OBJECTIVES
-LANG_ENGLISH        "Objetivo Prim·rio"
+LANG_ENGLISH        "Objetivo Prim√°rio"
 
 REFERENCE           SECONDARY_OBJECTIVES
-LANG_ENGLISH        "Objetivo Secund·rio"
+LANG_ENGLISH        "Objetivo Secund√°rio"
 
 REFERENCE           MISSION_COMPLETE
 NOTES               "Goes in ingameGotoTier and ingameMissionSelect"
@@ -297,7 +297,7 @@ REFERENCE           YES
 LANG_ENGLISH        "Sim"
 
 REFERENCE           NO
-LANG_ENGLISH        "N„o"
+LANG_ENGLISH        "N√£o"
 
 REFERENCE           HOST_NAME
 LANG_ENGLISH        "Nome do Host:"
@@ -314,7 +314,7 @@ LANG_ENGLISH        "Frag Limite:"
 
 REFERENCE           VERSION
 NOTES               "Used in Video Driver screen"
-LANG_ENGLISH        "Vers„o:"
+LANG_ENGLISH        "Vers√£o:"
 
 REFERENCE           CONFIGURE_WEAPON_CONTROLS
 NOTES               "Used in weapons setup"
@@ -322,36 +322,36 @@ LANG_ENGLISH        "Configurar os controles de armas."
 
 REFERENCE           CONFIGURE_FORCE_POWER
 NOTES               "Force setup desc"
-LANG_ENGLISH        "Configurar as teclas de Poder de ForÁa."
+LANG_ENGLISH        "Configurar as teclas de Poder de For√ßa."
 
 REFERENCE           CONFIGURE_ATTACK_LOOK
 NOTES               "Setup/Controls/attacklook button desc"
-LANG_ENGLISH        "Configurar Ataque/controles de vis„o."
+LANG_ENGLISH        "Configurar Ataque/controles de vis√£o."
 
 REFERENCE           CONFIGURE_MOVEMENT_KEYS
 NOTES               "Setup/QuickKey button desc"
 LANG_ENGLISH        "Configurar teclas de Movimento."
 
 REFERENCE           CONFIGURE_INVENTORY_KEYS
-LANG_ENGLISH        "Configurar teclas de Invent·rio."
+LANG_ENGLISH        "Configurar teclas de Invent√°rio."
 
 REFERENCE           CONFIGURE_MOUSE_AND_JOYSTICK
 NOTES               "Configure / mouse/joystick description"
-LANG_ENGLISH        "Configurar opÁıes de mouse e joystick."
+LANG_ENGLISH        "Configurar op√ß√µes de mouse e joystick."
 
 REFERENCE           CONFIGURE_ADDITIONAL
 NOTES               "Setup / Other button description."
-LANG_ENGLISH        "Configurar opÁıes adicionais."
+LANG_ENGLISH        "Configurar op√ß√µes adicionais."
 
 REFERENCE           3RD_PERSON
-LANG_ENGLISH        "3™ Pessoa:"
+LANG_ENGLISH        "3¬™ Pessoa:"
 
 REFERENCE           ALWAYS_RUN
 NOTES               "Used in other setup"
 LANG_ENGLISH        "Sempre Correndo:"
 
 REFERENCE           AUTO_SWITCH
-LANG_ENGLISH        "Troca Autom·tica:"
+LANG_ENGLISH        "Troca Autom√°tica:"
 
 REFERENCE           MOVE_THE_SLIDER_TO_INCREASE
 NOTES               "Used in Mouse/Joystick configuration."
@@ -366,7 +366,7 @@ NOTES               "used to change multi-value fields"
 LANG_ENGLISH        "Clique no campo para mudar o valor."
 
 REFERENCE           AUTO_TEAM
-LANG_ENGLISH        "Time Autom·tico"
+LANG_ENGLISH        "Time Autom√°tico"
 
 REFERENCE           TEAM_RED
 LANG_ENGLISH        "Time VERMELHO"
@@ -379,27 +379,27 @@ LANG_ENGLISH        "Espectador"
 
 REFERENCE           CONFIGURE_VIDEO_SETTINGS
 NOTES               "Setup/Configure button description"
-LANG_ENGLISH        "Configurar as opÁıes de vÌdeo."
+LANG_ENGLISH        "Configurar as op√ß√µes de v√≠deo."
 
 REFERENCE           CONFIGUE_MORE_VIDEO_SETTINGS
-LANG_ENGLISH        "Configurar mais opÁıes de vÌdeo."
+LANG_ENGLISH        "Configurar mais op√ß√µes de v√≠deo."
 
 REFERENCE           CONFIGURE_SOUND_SETTINGS
-LANG_ENGLISH        "Configurar opÁıes de som."
+LANG_ENGLISH        "Configurar op√ß√µes de som."
 
 REFERENCE           CONFIGURE_GAME_OPTIONS
 NOTES               "Setup/Game Options button description"
-LANG_ENGLISH        "Configurar opÁıes de jogo."
+LANG_ENGLISH        "Configurar op√ß√µes de jogo."
 
 REFERENCE           RESTORE_DEFAULT_SETTINGS
-LANG_ENGLISH        "Restaurar opÁıes padrıes."
+LANG_ENGLISH        "Restaurar op√ß√µes padr√µes."
 
 REFERENCE           VIDEO_QUALITY
 LANG_ENGLISH        "Qualidade de Video:"
 
 REFERENCE           VIDEO_MODE
 NOTES               "Using in the video setup screen"
-LANG_ENGLISH        "Modo de VÌdeo:"
+LANG_ENGLISH        "Modo de V√≠deo:"
 
 REFERENCE           COLOR_DEPTH
 NOTES               "Used in video setup screen"
@@ -407,7 +407,7 @@ LANG_ENGLISH        "Profundidade de Cor:"
 
 REFERENCE           DEFAULT
 NOTES               "Default value"
-LANG_ENGLISH        "Padr„o"
+LANG_ENGLISH        "Padr√£o"
 
 REFERENCE           16_BIT
 NOTES               "Used in video setup screen/color depth"
@@ -429,7 +429,7 @@ LANG_ENGLISH        "Ligado"
 
 REFERENCE           GEOMETRIC_DETAIL
 NOTES               "Used in video setup screen/geometric detail field"
-LANG_ENGLISH        "Detalhe GeomÈtrico:"
+LANG_ENGLISH        "Detalhe Geom√©trico:"
 
 REFERENCE           LOW
 NOTES               "Used in video setup screen"
@@ -437,7 +437,7 @@ LANG_ENGLISH        "Baixo"
 
 REFERENCE           MEDIUM
 NOTES               "Used in video setup screen"
-LANG_ENGLISH        "MÈdio"
+LANG_ENGLISH        "M√©dio"
 
 REFERENCE           HIGH
 NOTES               "Used in video setup screen"
@@ -469,61 +469,61 @@ LANG_ENGLISH        "Texturas Comprimidas:"
 
 REFERENCE           APPLY_CHANGES
 NOTES               "Used in video setup screen"
-LANG_ENGLISH        "APLICAR MUDAN«AS"
+LANG_ENGLISH        "APLICAR MUDAN√áAS"
 
 REFERENCE           APPLY_FORCE_FEEDBACK
 LANG_ENGLISH        "This will apply Force Feedback changes"
 
 REFERENCE           THIS_WILL_APPLY_VIDEO
 NOTES               "Used on vid restart screen\n"
-LANG_ENGLISH        "Isso aplicar· as opÁıes de vÌdeo"
+LANG_ENGLISH        "Isso aplicar√° as op√ß√µes de v√≠deo"
 
 REFERENCE           AND_RETURN_TO_THE_MAIN
 NOTES               "Used on vid restart screen"
-LANG_ENGLISH        "e retornar· para o Menu Principal."
+LANG_ENGLISH        "e retornar√° para o Menu Principal."
 
 REFERENCE           AND_RETURNTO_GAME
-LANG_ENGLISH        "e retornar· para o jogo atual."
+LANG_ENGLISH        "e retornar√° para o jogo atual."
 
 REFERENCE           VID_RESTART3
 NOTES               "Used on vid restart screen"
 LANG_ENGLISH        "Continuar?"
 
 REFERENCE           APPLY_CHANGES_AND_RETURN
-LANG_ENGLISH        "Aplicar mudanÁas e retornar para o jogo."
+LANG_ENGLISH        "Aplicar mudan√ßas e retornar para o jogo."
 
 REFERENCE           APPLY_CHANGES_AND_THEN
 NOTES               "Used on vid restart screen."
-LANG_ENGLISH        "Aplicar mudanÁas e ent„o ir para o Menu Principal."
+LANG_ENGLISH        "Aplicar mudan√ßas e ent√£o ir para o Menu Principal."
 
 REFERENCE           DO_NOT_APPLY_CHANGES
 NOTES               "Used on vid restart screen."
-LANG_ENGLISH        "N„o aplicar mudanÁas e retornar para o Menu de Video."
+LANG_ENGLISH        "N√£o aplicar mudan√ßas e retornar para o Menu de Video."
 
 REFERENCE           ADJUST_BRIGHTNESS_SLIDER
 NOTES               "Used in video data2 screen"
-LANG_ENGLISH        "Ajustar barra de brilho atÈ"
+LANG_ENGLISH        "Ajustar barra de brilho at√©"
 
 REFERENCE           THE_NUMBER_6_CAN_BARELY
 NOTES               "Used in video data2 screen"
-LANG_ENGLISH        "o n˙mero 6 poder ser levemente visto."
+LANG_ENGLISH        "o n√∫mero 6 poder ser levemente visto."
 
 REFERENCE           VIDEO_BRIGHTNESS
 NOTES               "Used in video data2 screen"
 LANG_ENGLISH        "Brilho:"
 
 REFERENCE           DYNAMIC_LIGHTS
-LANG_ENGLISH        "Luzes Din‚micas:"
+LANG_ENGLISH        "Luzes Din√¢micas:"
 
 REFERENCE           WALL_MARKS
 LANG_ENGLISH        "Marcas na Parede:"
 
 REFERENCE           ANISOTROPIC_FILTERING
 NOTES               "Used in video data2 screen"
-LANG_ENGLISH        "Filtro AnisotrÛpico:"
+LANG_ENGLISH        "Filtro Anisotr√≥pico:"
 
 REFERENCE           LIGHT_FLARES
-LANG_ENGLISH        "Clar„o de Luzes:"
+LANG_ENGLISH        "Clar√£o de Luzes:"
 
 REFERENCE           EFFECTS_VOLUME
 NOTES               "Used on sound menu"
@@ -531,11 +531,11 @@ LANG_ENGLISH        "Volume dos Efeitos:"
 
 REFERENCE           MUSIC_VOLUME
 NOTES               "Used on sound menu"
-LANG_ENGLISH        "Volume da M˙sica:"
+LANG_ENGLISH        "Volume da M√∫sica:"
 
 REFERENCE           SOUND_QUALITY
 NOTES               "Used on sound menu"
-LANG_ENGLISH        "Qualidade SonÛra:"
+LANG_ENGLISH        "Qualidade Son√≥ra:"
 
 REFERENCE           IDENTIFY_TARGET
 LANG_ENGLISH        "Identificar Alvo:"
@@ -548,10 +548,10 @@ NOTES               "Used in reset defaults screen"
 LANG_ENGLISH        "ALERTA!"
 
 REFERENCE           USE_DEFAULT_SETTINGS
-LANG_ENGLISH        "Usar OpÁıes Padrıes."
+LANG_ENGLISH        "Usar Op√ß√µes Padr√µes."
 
 REFERENCE           DO_NOT_RESET_DEFAULT
-LANG_ENGLISH        "N„o Reinicie OpÁıes Padrıes."
+LANG_ENGLISH        "N√£o Reinicie Op√ß√µes Padr√µes."
 
 REFERENCE           MAIN_MENU
 LANG_ENGLISH        "Menu Principal"
@@ -564,10 +564,10 @@ REFERENCE           SKILL1
 LANG_ENGLISH        "Habilidade:"
 
 REFERENCE           FORCE_MASTERY
-LANG_ENGLISH        "DomÌnio da ForÁa:"
+LANG_ENGLISH        "Dom√≠nio da For√ßa:"
 
 REFERENCE           FORCE_SIDE
-LANG_ENGLISH        "Lado da ForÁa:"
+LANG_ENGLISH        "Lado da For√ßa:"
 
 REFERENCE           JOIN_GAME
 LANG_ENGLISH        "Entrar no Jogo"
@@ -582,14 +582,14 @@ REFERENCE           POINTS_REMAINING
 LANG_ENGLISH        "Pontos Sobrando:"
 
 REFERENCE           FORCE_TEMPLATES
-LANG_ENGLISH        "Modelos de ForÁa"
+LANG_ENGLISH        "Modelos de For√ßa"
 
 REFERENCE           FORCE_JUMP
 NOTES               "Used in Force Setup screen."
 LANG_ENGLISH        "Pulo:"
 
 REFERENCE           DESCRIPTION_OF_A_FORCE
-LANG_ENGLISH        "DescriÁ„o de um Poder de ForÁa."
+LANG_ENGLISH        "Descri√ß√£o de um Poder de For√ßa."
 
 REFERENCE           FORCE_SPEED
 NOTES               "Used in Force Setup screen."
@@ -611,10 +611,10 @@ LANG_ENGLISH        "Defensivo:"
 
 REFERENCE           FORCE_SIGHT
 NOTES               "Used in Force Setup screen."
-LANG_ENGLISH        "Vis„o:"
+LANG_ENGLISH        "Vis√£o:"
 
 REFERENCE           THROW
-LANG_ENGLISH        "ArremeÁar:"
+LANG_ENGLISH        "Arreme√ßar:"
 
 REFERENCE           FORCE_PROTECT
 NOTES               "Used in Force Setup screen."
@@ -669,7 +669,7 @@ LANG_ENGLISH        "Defesa de Sabre:"
 
 REFERENCE           SABER_THROW
 NOTES               "Used in Force Setup screen."
-LANG_ENGLISH        "ArremeÁar Sabre:"
+LANG_ENGLISH        "Arreme√ßar Sabre:"
 
 REFERENCE           TEAM
 LANG_ENGLISH        "Time:"
@@ -684,7 +684,7 @@ REFERENCE           RESTART_MAP
 LANG_ENGLISH        "Reiniciar Mapa"
 
 REFERENCE           NEXT_MAP
-LANG_ENGLISH        "PrÛximo Mapa"
+LANG_ENGLISH        "Pr√≥ximo Mapa"
 
 REFERENCE           GAME_TYPE
 LANG_ENGLISH        "Tipo:"
@@ -705,7 +705,7 @@ REFERENCE           KICK_PLAYER
 LANG_ENGLISH        "Kickar Jogador:"
 
 REFERENCE           YOU_DECIDE
-LANG_ENGLISH        "VocÍ decide"
+LANG_ENGLISH        "Voc√™ decide"
 
 REFERENCE           ATTACK_THE_ENEMY_S_BASE
 LANG_ENGLISH        "Attack the enemy's base."
@@ -744,7 +744,7 @@ REFERENCE           PROFILE_LOWER
 LANG_ENGLISH        "Perfil"
 
 REFERENCE           PROFILE_DESC
-LANG_ENGLISH        "Configurar opÁıes de personagem."
+LANG_ENGLISH        "Configurar op√ß√µes de personagem."
 
 REFERENCE           RULES
 LANG_ENGLISH        "REGRAS"
@@ -753,7 +753,7 @@ REFERENCE           RULES_DESC
 LANG_ENGLISH        "Rules for different aspects of the game."
 
 REFERENCE           GAME_DESCRIPTIONS
-LANG_ENGLISH        "DescriÁ„o de Jogo."
+LANG_ENGLISH        "Descri√ß√£o de Jogo."
 
 REFERENCE           CONFIGURE_GAME_CONTROLS
 NOTES               "Setup/Configure button description"
@@ -764,15 +764,15 @@ LANG_ENGLISH        "CONTROLES"
 
 REFERENCE           SETUP
 NOTES               "This is for the top button row of the menu screen."
-LANG_ENGLISH        "OP«’ES"
+LANG_ENGLISH        "OP√á√ïES"
 
 REFERENCE           CONFIGURE_GAME_SETTINGS
 NOTES               "Used in Top Menu Buttons"
-LANG_ENGLISH        "Configurar opÁıes de jogo."
+LANG_ENGLISH        "Configurar op√ß√µes de jogo."
 
 REFERENCE           SHOW_GAME_CREDITS
 NOTES               "Credits button description"
-LANG_ENGLISH        "Mostrar crÈditos do jogo."
+LANG_ENGLISH        "Mostrar cr√©ditos do jogo."
 
 REFERENCE           EXIT
 NOTES               "Used in Top Menu Buttons"
@@ -803,11 +803,11 @@ LANG_ENGLISH        "Escolher fonte de servidores."
 
 REFERENCE           SET_FILTER_FOR_SPECIFIC
 NOTES               "Used in find server screen."
-LANG_ENGLISH        "Filtrar por modificaÁ„o de jogo especÌfico."
+LANG_ENGLISH        "Filtrar por modifica√ß√£o de jogo espec√≠fico."
 
 REFERENCE           FILTER_FOR_SPECIFIC_GAME
 NOTES               "Description of game type field. Use in find server."
-LANG_ENGLISH        "Filtrar por tipo de jogo especÌfico."
+LANG_ENGLISH        "Filtrar por tipo de jogo espec√≠fico."
 
 REFERENCE           VIEW_EMPTY
 NOTES               "Used in MP Find Server screen."
@@ -847,7 +847,7 @@ LANG_ENGLISH        "Jgdrs"
 
 REFERENCE           SORT_BY_NUMBER_OF_PLAYERS
 NOTES               "Description of PLYRS COLUMN\nUsed in MP Find Server screen.\n"
-LANG_ENGLISH        "Organizar pelo n˙mero de jogadores."
+LANG_ENGLISH        "Organizar pelo n√∫mero de jogadores."
 
 REFERENCE           SORT_TYPE
 NOTES               "Game type to sort servers by.\nUsed in MP Find Server screen"
@@ -879,7 +879,7 @@ LANG_ENGLISH        "Novo Favorito"
 
 REFERENCE           ENTER_IP_ADDRESS_OF_FAVORITE
 NOTES               "Description of new favorite.\nUsed in MP Find Server screen.\n"
-LANG_ENGLISH        "Entre com o endereÁo IP do servidor favorito."
+LANG_ENGLISH        "Entre com o endere√ßo IP do servidor favorito."
 
 REFERENCE           ADD_FAVORITE
 NOTES               "Used in MP Find Server screen.\n"
@@ -903,7 +903,7 @@ LANG_ENGLISH        "Info do Servidor"
 
 REFERENCE           DISPLAY_SERVER_INFORMATION
 NOTES               "Description of Server Info.\nUsed in MP Find Server screen."
-LANG_ENGLISH        "Mostrar informaÁ„o do servidor."
+LANG_ENGLISH        "Mostrar informa√ß√£o do servidor."
 
 REFERENCE           FIND_PLAYER
 NOTES               "Used in MP Find Server screen."
@@ -940,7 +940,7 @@ REFERENCE           CHOOSE_YOUR_GAME
 LANG_ENGLISH        "Escolha seu Jogo."
 
 REFERENCE           MAXIMUM_PLAYERS
-LANG_ENGLISH        "Jogadores M·ximos:"
+LANG_ENGLISH        "Jogadores M√°ximos:"
 
 REFERENCE           SETS_THE_MAXIMUM_NUMBER
 LANG_ENGLISH        "Sets the maximum number of players allowed to join your server. "
@@ -1020,7 +1020,7 @@ NOTES               "Used in Multiplayer Menu.\n"
 LANG_ENGLISH        "Iniciar Servidor."
 
 REFERENCE           ADVANCED
-LANG_ENGLISH        "AvanÁado"
+LANG_ENGLISH        "Avan√ßado"
 
 REFERENCE           UPDATE_ADVANCED_SERVER
 LANG_ENGLISH        "Update advanced server settings."
@@ -1372,11 +1372,11 @@ LANG_ENGLISH        "Sair do Movie Battles II?"
 
 REFERENCE           DO_NOT_LEAVE_JEDI_KNIGHT
 NOTES               "Quit screen, NO button description"
-LANG_ENGLISH        "N„o sair do Movie Battles II."
+LANG_ENGLISH        "N√£o sair do Movie Battles II."
 
 REFERENCE           SERVER_INFORMATION
 NOTES               "Used in MP Server Info Screen / Find Server screen."
-LANG_ENGLISH        "InformaÁ„o do Servidor"
+LANG_ENGLISH        "Informa√ß√£o do Servidor"
 
 REFERENCE           INPUT_PLAYER_NAME
 NOTES               "Used in Find Server/Find Friend menu"
@@ -1400,7 +1400,7 @@ LANG_ENGLISH        "Pesquise por servidores para jogar."
 
 REFERENCE           CREATE_YOUR_OWN_SERVER
 NOTES               "Description of Start Server."
-LANG_ENGLISH        "Crie seu prÛprio servidor."
+LANG_ENGLISH        "Crie seu pr√≥prio servidor."
 
 REFERENCE           PURE_SERVER
 LANG_ENGLISH        "Pure Server:"
@@ -1469,7 +1469,7 @@ NOTES               "Begin new game button description\n"
 LANG_ENGLISH        "Iniciar Movie Battles II."
 
 REFERENCE           DESC
-LANG_ENGLISH        "DESCRI«√O:"
+LANG_ENGLISH        "DESCRI√á√ÉO:"
 
 REFERENCE           LOAD_GAME
 NOTES               "This is for the top button row of the menu screen."
@@ -1588,7 +1588,7 @@ LANG_ENGLISH        "Light Amp. Goggles:"
 
 REFERENCE           MISSION_INFO
 NOTES               "Used in quick key binding.\n"
-LANG_ENGLISH        "Info da Miss„o:"
+LANG_ENGLISH        "Info da Miss√£o:"
 
 REFERENCE           SAVE_MENU
 NOTES               "Used in quick key binding."
@@ -1600,10 +1600,10 @@ LANG_ENGLISH        "Carregar Menu:"
 
 REFERENCE           INSTANT_SAVE
 NOTES               "Used in quick key binding."
-LANG_ENGLISH        "Savamento r·pido:"
+LANG_ENGLISH        "Savamento r√°pido:"
 
 REFERENCE           INSTANT_LOAD
-LANG_ENGLISH        "Carregamento r·pido:"
+LANG_ENGLISH        "Carregamento r√°pido:"
 
 REFERENCE           SOUND
 NOTES               "Setup/Sound button"
@@ -1611,7 +1611,7 @@ LANG_ENGLISH        "SOM"
 
 REFERENCE           GAME_OPTIONS
 NOTES               "Setup/Options button"
-LANG_ENGLISH        "OP«’ES"
+LANG_ENGLISH        "OP√á√ïES"
 
 REFERENCE           BILINEAR
 LANG_ENGLISH        "BILINEAR"
@@ -1689,7 +1689,7 @@ REFERENCE           CALL_VOTE
 LANG_ENGLISH        "Chamar Voto"
 
 REFERENCE           ADDRESS
-LANG_ENGLISH        "EndereÁo:"
+LANG_ENGLISH        "Endere√ßo:"
 
 REFERENCE           TYPE
 LANG_ENGLISH        "Tipo de Jogo:"
@@ -2014,16 +2014,16 @@ LANG_ENGLISH        "Uses Force Absorb ability."
 
 REFERENCE           VIDEO
 NOTES               "Setup/Video Button"
-LANG_ENGLISH        "VÕDEO"
+LANG_ENGLISH        "V√çDEO"
 
 REFERENCE           MORE_VIDEO
-LANG_ENGLISH        "MAIS VÕDEO"
+LANG_ENGLISH        "MAIS V√çDEO"
 
 REFERENCE           OPTIONS
-LANG_ENGLISH        "OP«’ES DE JOGO"
+LANG_ENGLISH        "OP√á√ïES DE JOGO"
 
 REFERENCE           DEFAULTS
-LANG_ENGLISH        "PADR’ES"
+LANG_ENGLISH        "PADR√ïES"
 
 REFERENCE           SELECT_PRESET_GRAPHIC
 LANG_ENGLISH        "Select preset graphic configuration."
@@ -2715,7 +2715,7 @@ REFERENCE           BLANK_1
 LANG_ENGLISH        " "
 
 REFERENCE           SETUP_OPTIONS
-LANG_ENGLISH        "OP«’ES DE CONFIGURA«√O"
+LANG_ENGLISH        "OP√á√ïES DE CONFIGURA√á√ÉO"
 
 REFERENCE           CONFIGURE_PLAYER_SETTINGS
 LANG_ENGLISH        "Configure player settings."
@@ -2751,7 +2751,7 @@ REFERENCE           ENTER_IP_ADDRESS
 LANG_ENGLISH        "Enter IP Address:"
 
 REFERENCE           START_PLAYING
-LANG_ENGLISH        "ComeÁar a Jogar"
+LANG_ENGLISH        "Come√ßar a Jogar"
 
 REFERENCE           PLAYBACK_DEMO
 LANG_ENGLISH        "Playback Demo"
@@ -2790,7 +2790,7 @@ REFERENCE           GO_BACK_TO_STANDARD_SETTINGS
 LANG_ENGLISH        "Go back to standard settings."
 
 REFERENCE           CREDITS
-LANG_ENGLISH        "CrÈditos"
+LANG_ENGLISH        "Cr√©ditos"
 
 REFERENCE           TO_BE_DETERMINED
 LANG_ENGLISH        "TO BE DETERMINED . . . "
@@ -3073,7 +3073,7 @@ REFERENCE           EXIT_INGAME
 LANG_ENGLISH        "Sair"
 
 REFERENCE           SETUP_INGAME
-LANG_ENGLISH        "ConfiguraÁ„o"
+LANG_ENGLISH        "Configura√ß√£o"
 
 REFERENCE           SABER_CHALLENGE
 LANG_ENGLISH        "Saber Challenge:"
@@ -3189,7 +3189,7 @@ REFERENCE           ABANDON
 LANG_ENGLISH        "Abandonar jogo atual e retornar ao Menu Principal."
 
 REFERENCE           DO_NOT_LEAVE
-LANG_ENGLISH        "N„o deixe o programa."
+LANG_ENGLISH        "N√£o deixe o programa."
 
 REFERENCE           LEAVE_PROGRAM
 LANG_ENGLISH        "Deixar programa completamente."
@@ -3263,7 +3263,7 @@ LANG_ENGLISH        "Conectando a %s"
 
 REFERENCE           AWAITING_CONNECTION
 NOTES               "... where %i is a count, do not delete it."
-LANG_ENGLISH        "Esperando conex„o...%i"
+LANG_ENGLISH        "Esperando conex√£o...%i"
 
 REFERENCE           AWAITING_CHALLENGE
 NOTES               "... during server connect, (leave %i, it's a packet count)"
@@ -4171,7 +4171,7 @@ NOTES               "This should be the native language name, eg francais, deuts
 LANG_ENGLISH        "English"
 
 REFERENCE           LANG_FRENCH
-LANG_ENGLISH        "FranÁais"
+LANG_ENGLISH        "Fran√ßais"
 
 REFERENCE           BACKTORULES
 LANG_ENGLISH        "Back to Rules Menu"
