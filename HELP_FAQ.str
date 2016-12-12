@@ -1,0 +1,256 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH "HALT"
+// LANG_GERMAN "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+// and because we do not store duplicate strings, which will then get exported again next time
+// as being untranslated.)
+//
+VERSION "1"
+CONFIG "W:\bin\stringed.cfg"
+FILENOTES ""
+
+REFERENCE QUESTION
+LANG_ENGLISH "Onde eu posso encontrar mais informações? O que eu quero saber não está explicado na Livraria..."
+
+REFERENCE ANSWER
+LANG_ENGLISH "Maiores informações estarão disponíveis no www.mb2brasil.com na seção 'Tutorial'"
+
+REFERENCE QUESTION1
+LANG_ENGLISH "Como eu uso foguetes de pulso?"
+
+REFERENCE ANSWER1
+LANG_ENGLISH "Você precisa adquirir um lançador de fogue PLX-1, e então em adição, uma granada de pulso para ser usada como maior potência para cada foguete de pulso que você deseja lançar. Assim que estiver no jogo, você irá precisar pressionar a tecla de modo de arma para alternar entre foguetes normais e foguetes de pulso. Lembre-se, Foguetes de Pulso podem ser detonados durante o ar usando o botão de tiro secundário! Veja Tropas ARC na seção de classes para maiores informações."
+
+REFERENCE QUESTION2
+LANG_ENGLISH "Como eu uso o Blaster de Pulso do Mandalorian/Armas de Luva"
+
+REFERENCE ANSWER2
+LANG_ENGLISH "O lança-chamas é direto o suficiente; É um lança-chamas, o qual você pode atirar ao segurar a sua tecla de Especial 2 e contanto que você tenha Gás para utiliza-lo. O laser de pulso deve ser trocado ao selecionar corpo-a-corpo (altere para punhos) e pressione a tecla de modo de arma. Você agora irá poder utilizar o Laser de Punho. Munição é visualizada na parte de baixo à direita da interface, como um número de cor azul claro. Note que o a munição do Laser de Punho regenera devagar. Entretanto, se você inteiramente esgotar a sua munição, o Laser de Punho irá sobrecarregar e explodir, não sendo possível ser utilizado até o fim do round."
+
+REFERENCE QUESTION3
+LANG_ENGLISH "O que a Carcaça Magnética, Armadura de Rajada, e Cortosis fazem ao \nSuper Droid de Batalha?"
+
+REFERENCE ANSWER3
+LANG_ENGLISH "Carcaça Magnética reflete e reduz o dano de armas de tipo de blaster. Armadura de Rajada reduz o dano de rajadas de granadas, ataques de corpo-a-corpo (como exemplo Wookiees),e arranhões como tiros de sniper de Rifle de Projétil. Cortosis reduz o dano feito ao SBD por sabres de luz."
+
+REFERENCE QUESTION4
+LANG_ENGLISH "Como eu consigo/uso a Destruição de Força ou Força Cega?"
+
+REFERENCE ANSWER4
+LANG_ENGLISH "Ambos os poderes estão disponíveis apenas no modo 'Full Authentic" (FA). Destruição de Força é do mapa mb2_duel_votj e Força Cega no mapa mb2_duel_sabh. Força Cega é ativado com a mesma tecla que a do Truque da Mente, enquanto Destruição de Força requer a sua própria tecla (configurável no menu de controles) ou deve ser selecionada usando a seleção de alternar o poder de força."
+
+REFERENCE QUESTION5
+LANG_ENGLISH "Porque a arma Carabina EE-3 é tão imprecisa?"
+
+REFERENCE ANSWER5
+LANG_ENGLISH "Na verdade, não é. Diferente da maioria das armas do MB2, a Carabina EE-3 não importa se você está andando, correndo, pulando ou voando. Os primeiros tiros lançados são sempre perfeitamente precisos, mas assim que você continuar a atirar, a sua precisão irá diminuir. Para aumenta-la novamente, você irá precisar parar de atirar por um momento para deixar reiniciar o tempo de recarga da EE-3."
+
+REFERENCE QUESTION6
+LANG_ENGLISH "Staff e Sabre Duplo não parecem se corresponderem à seção de características do site?"
+
+REFERENCE ANSWER6
+LANG_ENGLISH "Elas não parecem serem terrivelmente poderosas defensivamente e ofensivamente. Isso foi algo alterado no processo de desenvolvimento da versão B19. Eles são ambos similares; um pouco mais efetio que o estilo Amarelo/Médio. Ao em vez de consultar o site oficial do mb2 (que possui informações desatualizadas), consulte o site www.mb2brasil.com para maiores informações atuais."
+
+REFERENCE QUESTION7
+LANG_ENGLISH "Como eu chuto no ar utilizando o sabre de luz?"
+
+REFERENCE ANSWER7
+LANG_ENGLISH "Pressione a tecla de Especial de Classe 2 (a tecla 'Slap') enquanto estiver no ar, em conjunto com a direção que você deseja chutar. É particularmente útil para derrubar Mandalorians voando com Jetpack."
+
+REFERENCE QUESTION8
+LANG_ENGLISH "Socorro, eu fui envenenado por um Caçador de Recompensas!"
+
+REFERENCE ANSWER8
+LANG_ENGLISH "Jedi e Sith podem Meditar (configurável no menu de controles) para diminuir a drenagem de HP dos dardos, assumindo que você possa encontrar um lugar seguro para ficar alguns segundos meditando. Se você for um Shooter, você terá apenas de ficar parado. Lembre-se, sem poder Desviar ou Curar enquanto envenenado!"
+
+REFERENCE QUESTION9
+LANG_ENGLISH "O que a Força de Wookiee faz exatamente?"
+
+REFERENCE ANSWER9
+LANG_ENGLISH "Esses tipos de perguntas são respondidas na seção de Classes!"
+
+REFERENCE QUESTION10
+LANG_ENGLISH "O que é redução de Dano, e como isso funciona?"
+
+REFERENCE ANSWER10
+LANG_ENGLISH "Enquanto o termo de Redução de Dano pode ser aplicado à qualquer coisa que reduz o dano causado à alguem, quando é falado sobre isso, é geralmente se referindo à redução de dano que o Jedi e Sith podem causar, o qual será explicado aqui. Jedi e Sith beneficiam de 20 porcento de redução de dano contra a maioria de fonte de dano à qualquer momento, devido à conexão deles com a força, os tornando mais fortes. Entretanto, sofrendo dano de Saúde perde essa conexão, assim fazendo eles perderem HP. Quando segurando defesa (o qual também aplica quando atacando, através do swingblock(bloqueio de ataque) ), essa redução de dano é aumentada à 40 porcento. Entretanto, enquanto atacando com o sabre de luz sem swingblock, Jedi ou Sith não se beneficiam de qualquer redução de dano o qual os torna arriscados à ataques diretos."
+
+REFERENCE QUESTION11
+LANG_ENGLISH "Então o que é Mblock\nO que é SwingBlock?\nO que é Perfect Block\nSo what's MBlock?\nO que é um body hit?\nO que é ACM?"
+
+REFERENCE ANSWER11
+LANG_ENGLISH "Veja a seção de estratégia e procure por Jedi / Sith (Duelo Avançado)."
+
+REFERENCE QUESTION12
+LANG_ENGLISH "Então o que é Stagger?"
+
+REFERENCE ANSWER12
+LANG_ENGLISH "Stagger é um estado de incapacitar causado por causas variadas. A sua visão será lançada distante, previnindo você de atacar ou realizar slaps, ou até mesmo de bloquear projétils por um curto período (ataques de sabre ainda podem ser bloqueados). Ocorre em situações especiais em duelos de sabre, como por exemplo ao ser atingido por certos ataques especiais;"
+
+REFERENCE QUESTION13
+LANG_ENGLISH "O que é Passthrough?"
+
+REFERENCE ANSWER13
+LANG_ENGLISH "Há duas respostas:\n1) Passthrough ocorre quando você não é possível de bloquear um tiro que atinge o seu sabre diretamente. Ou bloqueando sem poder de força, ou durante um ataque. O projétil irá passar através do seu sabre, simplesmente causando faísca nele por um momento, antes de sair pelo outro lado ou atingindo o que estiver atrás do seu sabre.(Geralmente, você!)\n\n2) As pessoas geralmente reclamam sobre o golpe de sabre não ter feito contato com o oponente. A maioria dos 'passthroughs' no jogo são resultados do jogador estar vindo bem próximo mas não atacando durante os "quadros" de ataque do sabre, embora é verdade que se a taxa de quadros de um servidor é bem baixa, a deteção de ataque não deve ser registrada propriamente, especialmente com ataques muito rápidos o qual atingim quase nada do oponente (o qual acontece muito rapido e devem ser falho ao registrar como um ataque)."
+
+REFERENCE QUESTION14
+LANG_ENGLISH "Então o que é Ataque-Defesa(T3/T4/Q3)?"
+
+REFERENCE ANSWER14
+LANG_ENGLISH "Ataque-Defesa (chamado de T3 na versão b17, e alternativamente T4 ou Q3 na versão b18 e b19) permite que você bloqueie tiros de blaster durante um ataque com o seu sabre de luz, ao custo de drenagem normal de pontos de força. O seu ataque será interrompido, e uma animação de bloqueio irá acontecer; requerendo que você ou tente sabrar o seu alvo novamente, ou ataque novamente para pressionar o seu atauqe. A partir da versão v1.1, Ataque-Defesa está restrito ao modo Full Authentic (FA). Ataque-Defesa não tem uma má reputação da sua incarnação como T3 na versão b17 como sendo muito poderoso e fácil de utilizar, mas isso não é geralmente o caso da versão b18 e b19 e após, pois assim como garante vantagem em uma situação, deixa o Jedi ou Sith com uma fraqueza em outras situações (como por exemplo tendo um ataque interrompido assim não matando nada, ao em vez de ter causado o dano, e então o Jedi sofre dano de saúde ao em vez de tomar tiro."
+
+REFERENCE QUESTION15
+LANG_ENGLISH "Porque o Jedi/Sith podem pular de lugares altos sem morrerem?"
+
+REFERENCE ANSWER15
+LANG_ENGLISH "Se você tem o poder de Pulo de Força nível 3, e você pule de um lugar alto (você DEVE pular primeiro), você não irá tomar dano de queda. Se você escorregar ou ser jogado, você irá levar dano de queda como qualquer outra classe. Também, de alturas bem extremas, o Pulo de Força 3 não irá lhe proteger."
+
+REFERENCE QUESTION16
+LANG_ENGLISH "Então o que torna o Raio de Força tão interessante?"
+
+REFERENCE ANSWER16
+LANG_ENGLISH "Bem, além de previnir a maioria dos atiradores, enquanto eles estão sendo eletrocutados, o Raio pode ser atualizado de formas variadas. O mais simples é quando usado Raio 3, um Sith pode trocar para corpo-a-corpo em ordem de usar raio de duas mãos, o qual espalha em um arco de distância e faz dano duplo que o normal. De forma mais poderosa, se um Sith adquirir Empurro 3 assim como Raio 3, quando em Raio de duas mãos é usado inicialmente, Empurrar 3 também estará automaticamente usado ao mesmo tempo; o qual irá permitir que o Sith faça com que os seus oponentes fiquem no chão, o qual irá desestabilizar por um breve momento. Enquanto alguem for derrubado e desestabilizado por um Empurra-Raio, Raio irá causar triplo dano neles.(Para quando você realmente deve ser o Darth Sidious na sua mente.)"
+
+REFERENCE QUESTION17
+LANG_ENGLISH "Como eu sei o que o meu ACM é?"
+
+REFERENCE ANSWER17
+LANG_ENGLISH "Você não sabe, pelo menos não exatamente assim. \n\nCada estilo de sabre tem um contra ataque de ACM diferente também. Quando você atinge esse número e consegue um bonus de AP (poder de ataque) , você irá saber pois o seu personagem irá exiibr um aviso sonoro e na sua interface na parte inferior à direita irá derrepente conseguir uma luz grande em torno dela. Para maiores informações sobre ACM, veja a seção de estratégia."
+
+REFERENCE QUESTION18
+LANG_ENGLISH "Qual é a diferença entre Empurrar 1/2/3?\nQual é a diferença entre Puxar 1/2/3/?\nQual é a diferença entre Truque da Mente 1/2/3?\nQual é a diferença entre Truque da Mente e Cegar?\nComo funciona o poder de Enforcar?"
+
+REFERENCE ANSWER18
+LANG_ENGLISH "Veja a seção de 'Poderes de Força' no menu da Livraria e todas as suas dúvidas serão respondidas."
+
+REFERENCE QUESTION19
+LANG_ENGLISH "Como o Bloqueio de Força funciona?"
+
+REFERENCE ANSWER19
+LANG_ENGLISH "Verifique a descrição das habilidades de Jedi/Sith na seção de Classes da Livraria."
+
+REFERENCE QUESTION20
+LANG_ENGLISH "Quando se trata de sniper, qual o tiro é o mais rápido?"
+
+REFERENCE ANSWER20
+LANG_ENGLISH "É a que a classe de Hero utiliza, ou a que o Mandalorian/ARC usam, ou a que o Caçador de Recompensa utiliza.\n\nO Rifle de Projétil (a arma de Herói) tem uma velocidade de projétil idêntica ao modo de sniper da arma Carabina. O Rifle de projétil faz em torno de 1.5x a mais de dano, enquanto a EE-3 pode atirar 3 vezes em seguida sem a necessidade de ser recarregada\n\n O Rifle Disruptor (usado pela classe Caçador de Recompensa) atinge quase instantaneamente e pode derrotar a maioria das classes em um único tiro se carregada completamente."
+
+REFERENCE QUESTION21
+LANG_ENGLISH "O que é o Foco de Força?"
+
+REFERENCE ANSWER21
+LANG_ENGLISH "Essa é a habilidade de um Jedi/Sith de quebrar através do bloqueio de força do inimigo usuário do Sabre de Luz. Assim que a mira é mantida durante um tempo no inimigo, uma nuvem cinza de energia de Força irá ser construída em torno da pessoa, visível apenas ao jogador que esteja realizando o Foco de Força. Assim que essas nuvens estejam visíveis, o próximo poder de força usado no inimigo irá ultrapassar o bloqueio de força dele. A quantidade de tempo que leva para ganhar Foco de Força depende no nível de bloqueio de força do inimigo, com níveis maiores aumentando a quantidade de tempo necessária. Adicionalmente, um jogador segurando o bloqueio com um sabre de luz irá ainda poder bloquear a maioria dos poderes de força até quando um inimigo estiver usando Foco de Força nele; isso exclui a Força de Enforcar e Força de Truque da Mente (ou Força de Cegar no modo FA)."
+
+REFERENCE QUESTION22
+LANG_ENGLISH "Como eu faço os rolamentos no MB2?"
+
+REFERENCE ANSWER22
+LANG_ENGLISH "Essa mecânica é um pouco alterada do jogo base "Academia Jedi". Tudo que você tem que fazer é trocar para uma arma leve (ex: Sabre, Pistol) ou Corpo-a-corpo, e então fazer um pulo e segurar a tecla de agachar no chão. Tropas ARCs podem rolar sem pular com a habilidade Destreza 1 e acima usando a tecla de Classe Especial 2."
+
+REFERENCE	QUESTION23
+LANG_ENGLISH "Como eu derro uma classe Jedi que tem tanto Q3(Ataque-Defesa)\n e habilidades de poder de força Empurrer/Puxar nível 3?"
+
+REFERENCE ANSWER23
+LANG_ENGLISH "Em modo Full Authentic (FA) algumas das mais poderosas classes de Jedi e Sith possuem tanto o Q3 e habilidades de Força. Essas são classes difíceis de derrotarem, entretanto, a maioria das regras se aplicam.\n\nQuando eles estão atacando, eles não podem usar qualquer poder de força , lhe permitindo uma chance de Desviar os ataques deles, e há ainda o tempo de recarga entre o uso do poder de empurrar. E lembre-se, a drenagem de poder de força para o Jedi Q3 são maiores do que o normal na maioria das vezes, então use isso para a sua vantagem e faça com que eles percam poder de força."
+
+REFERENCE SLANG1
+LANG_ENGLISH "a"
+
+REFERENCE DEFINITION1
+LANG_ENGLISH "a"
+
+REFERENCE SLANG2
+LANG_ENGLISH "a"
+
+REFERENCE DEFINITION2
+LANG_ENGLISH "a"
+
+REFERENCE SLANG3
+LANG_ENGLISH "a"
+
+REFERENCE DEFINITION3
+LANG_ENGLISH "a"
+
+REFERENCE SLANG4
+LANG_ENGLISH "a"
+
+REFERENCE DEFINITION4
+LANG_ENGLISH "a"
+
+REFERENCE SLANG5
+LANG_ENGLISH "a"
+
+REFERENCE DEFINITION5
+LANG_ENGLISH "a"
+
+REFERENCE SLANG6
+LANG_ENGLISH "a"
+
+REFERENCE DEFINITION6
+LANG_ENGLISH "a"
+
+REFERENCE SLANG7
+LANG_ENGLISH "a"
+
+REFERENCE DEFINITION7
+LANG_ENGLISH "a"
+
+REFERENCE SLANG8
+LANG_ENGLISH "a"
+
+REFERENCE DEFINITION8
+LANG_ENGLISH "a"
+
+REFERENCE SLANG9
+LANG_ENGLISH "a"
+
+REFERENCE DEFINITION9
+LANG_ENGLISH "a"
+
+REFERENCE SLANG10
+LANG_ENGLISH "a"
+
+REFERENCE DEFINITION10
+LANG_ENGLISH "a"
+
+REFERENCE SLANG11
+LANG_ENGLISH "a"
+
+REFERENCE DEFINITION11
+LANG_ENGLISH "a"
+
+REFERENCE SLANG12
+LANG_ENGLISH "a"
+
+REFERENCE DEFINITION12
+LANG_ENGLISH "a"
+
+REFERENCE SLANG13
+LANG_ENGLISH "a"
+
+REFERENCE DEFINITION13
+LANG_ENGLISH "a"
+
+REFERENCE SLANG14
+LANG_ENGLISH "a"
+
+REFERENCE DEFINITION14
+LANG_ENGLISH "a"
+
+REFERENCE SLANG15
+LANG_ENGLISH "a"
+
+REFERENCE DEFINITION15
+LANG_ENGLISH "a"
+
+REFERENCE SLANG16
+LANG_ENGLISH "a"
+
+REFERENCE DEFINITION16
+LANG_ENGLISH "a"
+
+ENDMARKER
