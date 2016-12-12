@@ -39,7 +39,7 @@ LANG_ENGLISH        "Droideka"
 
 REFERENCE           HERO
 NOTES               "For help menu"
-LANG_ENGLISH        "Herói"
+LANG_ENGLISH        "HerÃ³i"
 
 REFERENCE           WOOKIEE
 NOTES               "For help menu"
@@ -47,7 +47,7 @@ LANG_ENGLISH        "Wookiee"
 
 REFERENCE           BH
 NOTES               "For help menu"
-LANG_ENGLISH        "Caçador de Recompenças"
+LANG_ENGLISH        "CaÃ§ador de RecompenÃ§as"
 
 REFERENCE           MANDO
 NOTES               "For help menu"
@@ -63,11 +63,11 @@ LANG_ENGLISH        "Modo Aberto"
 
 REFERENCE           FULL_AUTHENTIC
 NOTES               "For help menu"
-LANG_ENGLISH        "Modo Autêntico"
+LANG_ENGLISH        "Modo AutÃªntico"
 
 REFERENCE           SEMI_AUTHENTIC
 NOTES               "For help menu"
-LANG_ENGLISH        "Modo Semi-Autêntico"
+LANG_ENGLISH        "Modo Semi-AutÃªntico"
 
 REFERENCE           DUEL_OPEN
 NOTES               "For help menu"
@@ -75,15 +75,15 @@ LANG_ENGLISH        "Modo Duelo (Aberto)"
 
 REFERENCE           DUEL_FA
 NOTES               "For help menu"
-LANG_ENGLISH        "Modo Duelo (Autêntico)"
+LANG_ENGLISH        "Modo Duelo (AutÃªntico)"
 
 REFERENCE           SABERING_DUELING
 NOTES               "For help menu"
-LANG_ENGLISH        "Jedi / Sith ( Duelo Básico )"
+LANG_ENGLISH        "Jedi / Sith ( Duelo BÃ¡sico )"
 
 REFERENCE           SABERING_ADVANCED
 NOTES               "For help menu"
-LANG_ENGLISH        "Jedi / Sith ( Duelo Avançado )"
+LANG_ENGLISH        "Jedi / Sith ( Duelo AvanÃ§ado )"
 
 REFERENCE           SABERING_BATTLE
 NOTES               "For help menu"
@@ -127,25 +127,25 @@ REFERENCE           EE3
 LANG_ENGLISH        "EE3\nBlaster\nCarabina"
 
 REFERENCE           PRIFLE
-LANG_ENGLISH        "Projétil\nRifle"
+LANG_ENGLISH        "ProjÃ©til\nRifle"
 
 REFERENCE           DISRUPTOR
 LANG_ENGLISH        "Rifle Disruptor"
 
 REFERENCE           FRAGNADES
-LANG_ENGLISH        "Granadas Fragmentárias"
+LANG_ENGLISH        "Granadas FragmentÃ¡rias"
 
 REFERENCE           THERMALDET
 LANG_ENGLISH        "Termal\nDetonador"
 
 REFERENCE           PULSENADES
-LANG_ENGLISH        "Granadas Pulsônicas"
+LANG_ENGLISH        "Granadas PulsÃ´nicas"
 
 REFERENCE           SONICNADES
-LANG_ENGLISH        "Sônicas\nGranadas"
+LANG_ENGLISH        "SÃ´nicas\nGranadas"
 
 REFERENCE           FIRENADES
-LANG_ENGLISH        "Incendiárias\nGranadas"
+LANG_ENGLISH        "IncendiÃ¡rias\nGranadas"
 
 REFERENCE           CONCNADES
 LANG_ENGLISH        "Concussion\nGrenades"
@@ -154,7 +154,7 @@ REFERENCE MELEE
 LANG_ENGLISH "Corpo-a-corpo\n(Combate de Socos)"
 
 REFERENCE SABER_DESC
-LANG_ENGLISH "Sabre de Luz\n(Visão Geral\n & Estilos)"
+LANG_ENGLISH "Sabre de Luz\n(VisÃ£o Geral\n & Estilos)"
 
 REFERENCE SABER_SPECIALS
 LANG_ENGLISH "Sabre de Luz\n(Ataques Especiais)"
@@ -163,52 +163,52 @@ REFERENCE DEKABLASTERS
 LANG_ENGLISH "Droideka\n Blasters"
 
 REFERENCE ARMBLASTER
-LANG_ENGLISH "Braço Blaster \n(SDB)"
+LANG_ENGLISH "BraÃ§o Blaster \n(SDB)"
 
 REFERENCE JUMP
-LANG_ENGLISH "Força Pulo"
+LANG_ENGLISH "ForÃ§a Pulo"
 
 REFERENCE SPEED
-LANG_ENGLISH "Força Velocidade"
+LANG_ENGLISH "ForÃ§a Velocidade"
 
 REFERENCE PUSH
-LANG_ENGLISH "Força Empurrar"
+LANG_ENGLISH "ForÃ§a Empurrar"
 
 REFERENCE PULL
-LANG_ENGLISH "Força Puxar"
+LANG_ENGLISH "ForÃ§a Puxar"
 
 REFERENCE SENSE
-LANG_ENGLISH "Força Sentido"
+LANG_ENGLISH "ForÃ§a Sentido"
 
 REFERENCE MINDTRICK
-LANG_ENGLISH "Força Truque de Mente"
+LANG_ENGLISH "ForÃ§a Truque de Mente"
 
 REFERENCE BLIND
-LANG_ENGLISH "Força Cegueira (Somente FA)"
+LANG_ENGLISH "ForÃ§a Cegueira (Somente FA)"
 
 REFERENCE HEAL
-LANG_ENGLISH "Força Cura (Somente FA)"
+LANG_ENGLISH "ForÃ§a Cura (Somente FA)"
 
 REFERENCE DESTRUCTION
-LANG_ENGLISH "Força Destruição (Somente FA)"
+LANG_ENGLISH "ForÃ§a DestruiÃ§Ã£o (Somente FA)"
 
 REFERENCE SUPERPUSH
-LANG_ENGLISH "Super Empurrão"
+LANG_ENGLISH "Super EmpurrÃ£o"
 
 REFERENCE 360PUSH
-LANG_ENGLISH "Força Repulsora"
+LANG_ENGLISH "ForÃ§a Repulsora"
 
 REFERENCE GRIP
-LANG_ENGLISH "Força Enforcamento"
+LANG_ENGLISH "ForÃ§a Enforcamento"
 
 REFERENCE DRAIN
-LANG_ENGLISH "Força Drenamento (Somente FA)"
+LANG_ENGLISH "ForÃ§a Drenamento (Somente FA)"
 
 REFERENCE LIGHTNING
-LANG_ENGLISH "Força Raio"
+LANG_ENGLISH "ForÃ§a Raio"
 
 REFERENCE DEADLYSIGHT
-LANG_ENGLISH "Força Visão Mortal (Somente FA)"
+LANG_ENGLISH "ForÃ§a VisÃ£o Mortal (Somente FA)"
 
 ENDMARKER
 
