@@ -342,7 +342,7 @@ REFERENCE           SERVER_REFRESHTIME
 LANG_ENGLISH        "Tempo de Atualização do Servidor"
 
 REFERENCE           RULES_FFA_1
-LANG_ENGLISH        "Rules:  Defeat your enemies to score points!"
+LANG_ENGLISH        "Regras:  Derrote seus inimigos para marcar pontos!"
 
 REFERENCE           RULES_HOLO_1
 LANG_ENGLISH        "Regras: Pegar os Holocromos por todo o nível para ganhar as"
