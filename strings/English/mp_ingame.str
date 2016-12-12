@@ -171,23 +171,23 @@ LANG_ENGLISH        "for arremeçado à sua ruína por"
 
 REFERENCE           FRAGGED_FLAG_CARRIER
 NOTES               "Player fragged a team's flag carrier"
-LANG_ENGLISH        "killed %s's flag carrier"
+LANG_ENGLISH        "matou o %s's portador da bandeira"
 
 REFERENCE           FLAG_RETURNED
 NOTES               "Flag returned"
-LANG_ENGLISH        "The %s flag has returned!"
+LANG_ENGLISH        "A %s bandeira voltou!"
 
 REFERENCE           PLAYER_RETURNED_FLAG
 NOTES               "Player returned flag"
-LANG_ENGLISH        "returned the %s flag!"
+LANG_ENGLISH        "retornou a %s bandeira!"
 
 REFERENCE           PLAYER_CAPTURED_FLAG
 NOTES               "Player captured flag"
-LANG_ENGLISH        "captured the %s flag!"
+LANG_ENGLISH        "capturou a %s bandeira!"
 
 REFERENCE           PLAYER_GOT_FLAG
 NOTES               "Player got flag"
-LANG_ENGLISH        "got the %s flag!"
+LANG_ENGLISH        "pegou a %s bandeira!"
 
 REFERENCE           SENTRY_NOROOM
 LANG_ENGLISH        "Não há lugar para colocar uma arma sentinela aqui."
@@ -202,11 +202,11 @@ REFERENCE           SEEKER_ALREADYDEPLOYED
 LANG_ENGLISH        "Você já tem um drone de caça implantado."
 
 REFERENCE           KILLED_SENTRY
-LANG_ENGLISH        "foi sentinelado por"
+LANG_ENGLISH        "foi morto por uma sentinela"
 
 REFERENCE           SET_NEW_RANK
 NOTES               "Displayed when a player joins a server and his force rank is too high"
-LANG_ENGLISH        "Your force rank is higher than the server's maximum allowed rank. Please configure within the server's limit."
+LANG_ENGLISH        "Sua classificação de força é maior que a classificação máxima permitida do servidor. Configure dentro do limite do servidor."
 
 REFERENCE           KILLED_MELEE
 NOTES               "Player was killed by a kickflip"
@@ -218,19 +218,19 @@ LANG_ENGLISH        "Nunca"
 
 REFERENCE           AUTOSWITCH1
 NOTES               "cg_autoswitch text"
-LANG_ENGLISH        "If weapon not explosive"
+LANG_ENGLISH        "Se for arma e não explosivo"
 
 REFERENCE           AUTOSWITCH2
 NOTES               "cg_autoswitch text"
-LANG_ENGLISH        "If better"
+LANG_ENGLISH        "Se for melhor"
 
 REFERENCE           AUTOSWITCH3
 NOTES               "cg_autoswitch text"
-LANG_ENGLISH        "If not using saber"
+LANG_ENGLISH        "Se não estiver utilizando um sabre"
 
 REFERENCE           SKILL1
 NOTES               "Skill level"
-LANG_ENGLISH        "Initiate"
+LANG_ENGLISH        "Iniciante"
 
 REFERENCE           SKILL2
 NOTES               "skill level"
@@ -242,11 +242,11 @@ LANG_ENGLISH        "Jedi"
 
 REFERENCE           SKILL4
 NOTES               "Skill level"
-LANG_ENGLISH        "Jedi Knight"
+LANG_ENGLISH        "Cavaleiro Jedi"
 
 REFERENCE           SKILL5
 NOTES               "skill level"
-LANG_ENGLISH        "Jedi Master"
+LANG_ENGLISH        "Mestre Jedi"
 
 REFERENCE           TIMELIMIT
 NOTES               "For server connect screen"
@@ -254,46 +254,46 @@ LANG_ENGLISH        "Tempo limite:"
 
 REFERENCE           FRAGLIMIT
 NOTES               "For server connect screen"
-LANG_ENGLISH        "Kill Limit:"
+LANG_ENGLISH        "Limite de Assassinatos:"
 
 REFERENCE           CAPTURELIMIT
 NOTES               "For server connect screen"
-LANG_ENGLISH        "Capture Limit:"
+LANG_ENGLISH        "Limite de Capturas:"
 
 REFERENCE           MAXFORCERANK
 NOTES               "For server connect screen"
-LANG_ENGLISH        "Force Mastery Level:"
+LANG_ENGLISH        "Nivel de Maestria na Força:"
 
 REFERENCE           CHEATSAREENABLED
 NOTES               "For server connect screen"
-LANG_ENGLISH        "CHEATS ARE ENABLED"
+LANG_ENGLISH        "TRAPAÇAS ABILITADAS"
 
 REFERENCE           SABERONLYSET
 NOTES               "For server connect screen"
-LANG_ENGLISH        "Saber Only"
+LANG_ENGLISH        "Apenas Sabres"
 
 REFERENCE           NOFPSET
 NOTES               "For server connect screen"
-LANG_ENGLISH        "No Force Powers"
+LANG_ENGLISH        "Sem Poderes da Força"
 
 REFERENCE           WINLIMIT
 NOTES               "For server connect screen"
-LANG_ENGLISH        "Duel Win Limit:"
+LANG_ENGLISH        "Limite de Vitórias no duelo:"
 
 REFERENCE           FORCEBASEDTEAMS
-LANG_ENGLISH        "Force-Based Teams Enabled"
+LANG_ENGLISH        "Times Baseados na Força Habilitado"
 
 REFERENCE           KILLEDBY
 LANG_ENGLISH        "Morto por"
 
 REFERENCE           JMKILLED_NOTJM
-LANG_ENGLISH        "The Jedi Master scores a point!"
+LANG_ENGLISH        "O Mestre Jedi marcou um ponto!"
 
 REFERENCE           MASTERY0
-LANG_ENGLISH        "Uninitiated"
+LANG_ENGLISH        "Não iniciado"
 
 REFERENCE           MASTERY1
-LANG_ENGLISH        "Initiate"
+LANG_ENGLISH        "Iniciante"
 
 REFERENCE           MASTERY2
 LANG_ENGLISH        "Padawan"
@@ -302,41 +302,41 @@ REFERENCE           MASTERY3
 LANG_ENGLISH        "Jedi"
 
 REFERENCE           MASTERY4
-LANG_ENGLISH        "Jedi Adept"
+LANG_ENGLISH        "Adepto Jedi"
 
 REFERENCE           MASTERY5
-LANG_ENGLISH        "Jedi Guardian"
+LANG_ENGLISH        "Guardio Jedi"
 
 REFERENCE           MASTERY6
-LANG_ENGLISH        "Jedi Knight"
+LANG_ENGLISH        "Cavaleiro Jedi"
 
 REFERENCE           MASTERY7
 NOTES               "also now used to print under picture at top right of screen for "Jedi Master""
-LANG_ENGLISH        "Jedi Master"
+LANG_ENGLISH        "Mestre JEdi"
 
 REFERENCE           DUEL_WINS
 LANG_ENGLISH        "is the winner"
 
 REFERENCE           SPECHUD_VERSUS
-LANG_ENGLISH        "versus"
+LANG_ENGLISH        "contra"
 
 REFERENCE           WAITING_FOR_NEW_KEY
 LANG_ENGLISH        "Entre nova tecla, ou ESC para cancelar, BACKSPACE para limpar."
 
 REFERENCE           SUICIDE_FALLDEATH_FEMALE
-LANG_ENGLISH        "caiu para sua morte"
+LANG_ENGLISH        "caiu e morreu"
 
 REFERENCE           SUICIDE_FALLDEATH_GENDERLESS
-LANG_ENGLISH        "caiu para sua morte"
+LANG_ENGLISH        "caiu e morreu"
 
 REFERENCE           SUICIDE_FALLDEATH_MALE
-LANG_ENGLISH        "caiu para sua morte"
+LANG_ENGLISH        "caiu e morreu"
 
 REFERENCE           SPEC_CHOOSEJOIN
 LANG_ENGLISH        "Escolha 'Entrar' do menu para entrar no jogo"
 
 REFERENCE           GETTINGINFOFORSERVERS
-LANG_ENGLISH        "Pegando info dos servidores..."
+LANG_ENGLISH        "Pegando informação dos servidores..."
 
 REFERENCE           SERVER_REFRESHTIME
 LANG_ENGLISH        "Tempo de Atualização do Servidor"
@@ -345,40 +345,40 @@ REFERENCE           RULES_FFA_1
 LANG_ENGLISH        "Rules:  Defeat your enemies to score points!"
 
 REFERENCE           RULES_HOLO_1
-LANG_ENGLISH        "Rules:  Pick up the cubes throughout the level to gain their"
+LANG_ENGLISH        "Regras: Pegar os Holocromos por todo o nível para ganhar as"
 
 REFERENCE           RULES_HOLO_2
-LANG_ENGLISH        "Force Abilities.  Defeat your enemies, and take their Holocrons."
+LANG_ENGLISH        "Habilidades da força. Derrote seus inimigos, e pegue seus Holocromos."
 
 REFERENCE           RULES_JEDI_1
-LANG_ENGLISH        "Rules:  Kill only the player with the Lightsaber!  When they are"
+LANG_ENGLISH        "Regras: Mate apenas jogadores com sabres de luz! Quando eles"
 
 REFERENCE           RULES_JEDI_2
-LANG_ENGLISH        "slain, pick up the saber and defeat your pursuers to score points."
+LANG_ENGLISH        "morrerem, pegue o sabre e derrote seus inimigos para marcar pontos"
 
 REFERENCE           RULES_DUEL_1
-LANG_ENGLISH        "Rules:  Take turns at going one-on-one against other players."
+LANG_ENGLISH        "Regras: Se revezam em indo um contra um com outros jogadores."
 
 REFERENCE           RULES_DUEL_2
-LANG_ENGLISH        "The winner of the round keeps playing, and the loser returns to observing."
+LANG_ENGLISH        "O vencedor da rodado continua a jogar, e mais tarde ele volta a observar."
 
 REFERENCE           RULES_TEAM_1
-LANG_ENGLISH        "Rules:  Join with your teammates to defeat the players"
+LANG_ENGLISH        "Regras: Junte-se a sua equipe para derrotar os jogadores"
 
 REFERENCE           RULES_TEAM_2
-LANG_ENGLISH        "on the other team."
+LANG_ENGLISH        "na outra equipe"
 
 REFERENCE           RULES_CTF_1
-LANG_ENGLISH        "Rules:  Join with your teammates to reach the enemy's flag base."
+LANG_ENGLISH        "Regras: Junte-se com seus aliados para alcançar a base da bandeira do inimigo."
 
 REFERENCE           RULES_CTF_2
-LANG_ENGLISH        "Steal their flag and return to your home base alive."
+LANG_ENGLISH        "Roube a bandeira e volte para sua base de vivo."
 
 REFERENCE           RULES_CTY_1
-LANG_ENGLISH        "Rules:  Join with your teammates to steal the enemy's Ysalamiri."
+LANG_ENGLISH        "Regras: Junte-se com seus companheiros para roubar Ysalamiri do inimigo."
 
 REFERENCE           RULES_CTY_2
-LANG_ENGLISH        "Return it to your base, but remember that the reptile negates all force powers."
+LANG_ENGLISH        "Retorne a sua base, mas lembre-se que o réptil nega todos os poderes da força."
 
 REFERENCE           CONNECTION_INTERRUPTED
 LANG_ENGLISH        "Conexão Interrompida"
@@ -394,41 +394,41 @@ LANG_ENGLISH        "ou pressione ESC e clique em Votar."
 
 REFERENCE           PLACE_WITH
 NOTES               "used in scoreboard, eg:  1st [place with] 24 points"
-LANG_ENGLISH        "place with"
+LANG_ENGLISH        "colocar com"
 
 REFERENCE           PLACE
 NOTES               "used in scoreboard, eg "1st place""
-LANG_ENGLISH        "place"
+LANG_ENGLISH        "colocar"
 
 REFERENCE           OF
 NOTES               "used in scoring (1st place [of] 3)"
-LANG_ENGLISH        "of"
+LANG_ENGLISH        "de"
 
 REFERENCE           WITH
 NOTES               "used in scoring:  [with %d points]"
-LANG_ENGLISH        "with"
+LANG_ENGLISH        "com"
 
 REFERENCE           NUMBER_ST
 NOTES               "used for english "1st" extension"
-LANG_ENGLISH        "st"
+LANG_ENGLISH        "º"
 
 REFERENCE           NUMBER_ND
 NOTES               "use for (eg) "2nd""
-LANG_ENGLISH        "nd"
+LANG_ENGLISH        "º"
 
 REFERENCE           NUMBER_RD
-LANG_ENGLISH        "rd"
+LANG_ENGLISH        "º"
 
 REFERENCE           NUMBER_TH
-LANG_ENGLISH        "th"
+LANG_ENGLISH        "º"
 
 REFERENCE           TIED_FOR
 NOTES               "used in scoring , eg: "tied for 1st place""
-LANG_ENGLISH        "Tied for"
+LANG_ENGLISH        "Escolhido para"
 
 REFERENCE           LEADER
 NOTES               "displayed as "Leader %d" with score at top right of screen"
-LANG_ENGLISH        "Leader"
+LANG_ENGLISH        "Lider"
 
 REFERENCE           WAITING_TO_PLAY
 LANG_ENGLISH        "esperando para jogar"
@@ -437,7 +437,7 @@ REFERENCE           SPECTATOR
 LANG_ENGLISH        "ESPECTADOR"
 
 REFERENCE           PURE_SERVER
-LANG_ENGLISH        "Pure Server"
+LANG_ENGLISH        "Servidor Puro"
 
 REFERENCE           STARTS_IN
 LANG_ENGLISH        "Começa em"
@@ -459,11 +459,11 @@ REFERENCE           SERVER_FILTERS
 LANG_ENGLISH        "All\nJedi Knight 2\n"
 
 REFERENCE           DUELING
-LANG_ENGLISH        "Dueling"
+LANG_ENGLISH        "Duelando"
 
 REFERENCE           W_L
 NOTES               "win/lose initials"
-LANG_ENGLISH        "W/L"
+LANG_ENGLISH        "V/D"
 
 REFERENCE           READY
 LANG_ENGLISH        "PRONTO"
@@ -472,16 +472,16 @@ REFERENCE           WAITING_FOR_PLAYERS
 LANG_ENGLISH        "Esperando por Jogadores"
 
 REFERENCE           RULES_POWERDUEL_1
-LANG_ENGLISH        "Rules:  Take turns at going two-on-one with other players."
+LANG_ENGLISH        "Regras: Se revezam em indo dois contra um com outros jogadores."
 
 REFERENCE           RULES_POWERDUEL_2
-LANG_ENGLISH        "The winner(s) of the round keep playing, and the loser(s) return to observing."
+LANG_ENGLISH        "O vencedor(s) da rodada continua a jogar, e o perdedor(s) retorna a observar."
 
 REFERENCE           ROUNDBEGINSIN
 LANG_ENGLISH        "Rodada começa em"
 
 REFERENCE           SCORE
-LANG_ENGLISH        "Score"
+LANG_ENGLISH        "Pontuação"
 
 REFERENCE           NAME
 LANG_ENGLISH        "Nome"
@@ -502,10 +502,10 @@ REFERENCE           BLUE_LEADS
 LANG_ENGLISH        "Azul lidera"
 
 REFERENCE           SIEGETEAM1WIN
-LANG_ENGLISH        "Team 1 won the match!"
+LANG_ENGLISH        "Equipe 1 ganhou o jogo!"
 
 REFERENCE           SIEGETEAM2WIN
-LANG_ENGLISH        "Team 2 won the match!"
+LANG_ENGLISH        "Equipe 2 ganhou o jogo!"
 
 REFERENCE           RED
 LANG_ENGLISH        "Vermelho"
@@ -520,16 +520,16 @@ REFERENCE           YOU_LOSE
 LANG_ENGLISH        "VOCÊ PERDEU..."
 
 REFERENCE           JOIN_SINGLE
-LANG_ENGLISH        "SOLO"
+LANG_ENGLISH        "Sozinho"
 
 REFERENCE           JOIN_DOUBLE
-LANG_ENGLISH        "DOUBLE"
+LANG_ENGLISH        "Dupla"
 
 REFERENCE           FOLLOWINGLONE
-LANG_ENGLISH        "Following lone duelist"
+LANG_ENGLISH        "Seguindo a duelista solitário"
 
 REFERENCE           FOLLOWINGDOUBLE
-LANG_ENGLISH        "Following paired duelist"
+LANG_ENGLISH        "Seguindo duelista emparelhado"
 
 REFERENCE           AND
 LANG_ENGLISH        "e"
@@ -538,7 +538,7 @@ REFERENCE           DIED_LASER
 LANG_ENGLISH        "foi fuzilado."
 
 REFERENCE           TOO_MANY_INFO
-LANG_ENGLISH        "Alerta: Muitas mudanças de info, última info ignorada"
+LANG_ENGLISH        "Alerta: Muitas mudanças de informação, última informação foi ignorada"
 
 
 ENDMARKER
