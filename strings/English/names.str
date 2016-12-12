@@ -31,7 +31,7 @@ LANG_ENGLISH        "Tropa ARC"
 
 REFERENCE           SBD
 NOTES               "For help menu"
-LANG_ENGLISH        "Super Droid de Batalha\n(SDB)"
+LANG_ENGLISH        "Super Droid\nde Batalha (SDB)"
 
 REFERENCE           DEKA
 NOTES               "For help menu"
@@ -47,7 +47,7 @@ LANG_ENGLISH        "Wookiee"
 
 REFERENCE           BH
 NOTES               "For help menu"
-LANG_ENGLISH        "Caçador de Recompenças"
+LANG_ENGLISH        "Caçador de\nRecompenças"
 
 REFERENCE           MANDO
 NOTES               "For help menu"
@@ -133,13 +133,13 @@ REFERENCE           DISRUPTOR
 LANG_ENGLISH        "Rifle\nDisruptor"
 
 REFERENCE           FRAGNADES
-LANG_ENGLISH        "Granadas\nFragmentárias"
+LANG_ENGLISH        "Granadas de\nFragmentação"
 
 REFERENCE           THERMALDET
 LANG_ENGLISH        "Detonador\nTérmico"
 
 REFERENCE           PULSENADES
-LANG_ENGLISH        "Granadas\nPulsônicas"
+LANG_ENGLISH        "Granadas de\nPulso"
 
 REFERENCE           SONICNADES
 LANG_ENGLISH        "Granadas\nSônicas"
@@ -148,7 +148,7 @@ REFERENCE           FIRENADES
 LANG_ENGLISH        "Granadas\nIncendiárias"
 
 REFERENCE           CONCNADES
-LANG_ENGLISH        "Granadas\nConcussão"
+LANG_ENGLISH        "Granadas de\nConcussão"
 
 REFERENCE MELEE
 LANG_ENGLISH "Corpo-a-corpo\n(Combate de Socos)"
