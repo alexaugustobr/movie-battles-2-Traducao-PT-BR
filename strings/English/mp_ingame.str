@@ -63,7 +63,7 @@ LANG_ENGLISH        "se matou"
 
 REFERENCE           KILLED_MESSAGE
 NOTES               ""you fragged" message"
-LANG_ENGLISH        "Você Matou"
+LANG_ENGLISH        "VocÃª Matou"
 
 REFERENCE           KILLED_STUN
 NOTES               "Death message, stun baton"
@@ -111,7 +111,7 @@ LANG_ENGLISH        "foi metralhado por"
 
 REFERENCE           KILLED_FLECHETTE_MINE
 NOTES               "Death message, flechette proxmine"
-LANG_ENGLISH        "foi estilhaçado por"
+LANG_ENGLISH        "foi estilhaÃ§ado por"
 
 REFERENCE           KILLED_ROCKET
 NOTES               "Death message, rocket"
@@ -143,7 +143,7 @@ LANG_ENGLISH        "foi aniquilado por"
 
 REFERENCE           KILLED_TELEFRAG
 NOTES               "Death message, telefrag"
-LANG_ENGLISH        "foi esmagado em outra dimensão por"
+LANG_ENGLISH        "foi esmagado em outra dimensÃ£o por"
 
 REFERENCE           KILLED_GENERIC
 NOTES               "Death message, generic"
@@ -167,7 +167,7 @@ LANG_ENGLISH        "se matou"
 
 REFERENCE           KILLED_FORCETOSS
 NOTES               "Player killed another player by pushing, pulling, or gripping and dropping another player into something lethal"
-LANG_ENGLISH        "for arremeçado à sua ruína por"
+LANG_ENGLISH        "for arremeÃ§ado Ã  sua ruÃ­na por"
 
 REFERENCE           FRAGGED_FLAG_CARRIER
 NOTES               "Player fragged a team's flag carrier"
@@ -190,16 +190,16 @@ NOTES               "Player got flag"
 LANG_ENGLISH        "got the %s flag!"
 
 REFERENCE           SENTRY_NOROOM
-LANG_ENGLISH        "Não há lugar para colocar uma arma sentinela aqui."
+LANG_ENGLISH        "NÃ£o hÃ¡ lugar para colocar uma arma sentinela aqui."
 
 REFERENCE           SENTRY_ALREADYPLACED
-LANG_ENGLISH        "Você não pode colocar mais de uma arma sentinela por vez."
+LANG_ENGLISH        "VocÃª nÃ£o pode colocar mais de uma arma sentinela por vez."
 
 REFERENCE           SHIELD_NOROOM
-LANG_ENGLISH        "Não há lugar para colocar um campo de força aqui."
+LANG_ENGLISH        "NÃ£o hÃ¡ lugar para colocar um campo de forÃ§a aqui."
 
 REFERENCE           SEEKER_ALREADYDEPLOYED
-LANG_ENGLISH        "Você já tem um drone de caça implantado."
+LANG_ENGLISH        "VocÃª jÃ¡ tem um drone de caÃ§a implantado."
 
 REFERENCE           KILLED_SENTRY
 LANG_ENGLISH        "foi sentinelado por"
@@ -339,7 +339,7 @@ REFERENCE           GETTINGINFOFORSERVERS
 LANG_ENGLISH        "Pegando info dos servidores..."
 
 REFERENCE           SERVER_REFRESHTIME
-LANG_ENGLISH        "Tempo de Atualização do Servidor"
+LANG_ENGLISH        "Tempo de AtualizaÃ§Ã£o do Servidor"
 
 REFERENCE           RULES_FFA_1
 LANG_ENGLISH        "Rules:  Defeat your enemies to score points!"
@@ -381,7 +381,7 @@ REFERENCE           RULES_CTY_2
 LANG_ENGLISH        "Return it to your base, but remember that the reptile negates all force powers."
 
 REFERENCE           CONNECTION_INTERRUPTED
-LANG_ENGLISH        "Conexão Interrompida"
+LANG_ENGLISH        "ConexÃ£o Interrompida"
 
 REFERENCE           SERVER_CHANGING_MAPS
 LANG_ENGLISH        "Servidor Mudando Mapa"
@@ -440,7 +440,7 @@ REFERENCE           PURE_SERVER
 LANG_ENGLISH        "Pure Server"
 
 REFERENCE           STARTS_IN
-LANG_ENGLISH        "Começa em"
+LANG_ENGLISH        "ComeÃ§a em"
 
 REFERENCE           GET_SABER
 LANG_ENGLISH        "Get Saber!"
@@ -478,7 +478,7 @@ REFERENCE           RULES_POWERDUEL_2
 LANG_ENGLISH        "The winner(s) of the round keep playing, and the loser(s) return to observing."
 
 REFERENCE           ROUNDBEGINSIN
-LANG_ENGLISH        "Rodada começa em"
+LANG_ENGLISH        "Rodada comeÃ§a em"
 
 REFERENCE           SCORE
 LANG_ENGLISH        "Score"
@@ -493,7 +493,7 @@ REFERENCE           TIME
 LANG_ENGLISH        "Tempo"
 
 REFERENCE           TIEDAT
-LANG_ENGLISH        "Times estão empatados em"
+LANG_ENGLISH        "Times estÃ£o empatados em"
 
 REFERENCE           RED_LEADS
 LANG_ENGLISH        "Vemelho lidera"
@@ -514,10 +514,10 @@ REFERENCE           BLUE
 LANG_ENGLISH        "Azul"
 
 REFERENCE           YOU_WIN
-LANG_ENGLISH        "VOCÊ VENCEU!"
+LANG_ENGLISH        "VOCÃŠ VENCEU!"
 
 REFERENCE           YOU_LOSE
-LANG_ENGLISH        "VOCÊ PERDEU..."
+LANG_ENGLISH        "VOCÃŠ PERDEU..."
 
 REFERENCE           JOIN_SINGLE
 LANG_ENGLISH        "SOLO"
@@ -538,7 +538,7 @@ REFERENCE           DIED_LASER
 LANG_ENGLISH        "foi fuzilado."
 
 REFERENCE           TOO_MANY_INFO
-LANG_ENGLISH        "Alerta: Muitas mudanças de info, última info ignorada"
+LANG_ENGLISH        "Alerta: Muitas mudanÃ§as de info, Ãºltima info ignorada"
 
 
 ENDMARKER
